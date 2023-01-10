@@ -9,3 +9,5 @@ class: invert
 <span style="color: grey">By:</span> Gen L
 
 ---
+
+## Lesson 6: The Charter of Rights and Freedoms
