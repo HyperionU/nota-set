@@ -2,7 +2,7 @@
 A series of notes & presentations, provided by Hyperion University
 ## Notes List:
 * Social Studies 10
-    - Government Unit: Lessons 1-5
+    - Government Unit: Lessons 1-5, (Lesson 6 coming soon)
     - WWI Unit (1914 - 1918): (coming soon)
     - Interwar Years Unit: (coming soon)
     - WWII Unit: (coming soon)
