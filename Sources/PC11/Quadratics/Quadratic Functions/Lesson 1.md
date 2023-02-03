@@ -80,3 +80,27 @@ $f(x)=a(x-p)^2+q$
     * If $0<a\leq1$, $f(x)$ is wider.
 
 ---
+
+## Characteristics
+
+3) Axis of Symmetry (AoS)
+    * The vertical line through the vertex ($\frac{-b}{2a}$)
+4) Vertex
+    * The min/max point of the function ($p,q$ in vertex form)
+5) Intercepts
+    * Y-intercept
+        * Where the function crosses y-axis ($c$ in standard form)
+
+---
+
+## Characteristics
+
+5) Intercepts, cont.
+    * X-intercept
+        * Where the function crosses x-axis
+6) Min/Max
+    * Highest/Lowest point of function ($y$-coordinate of vertex, based on direction)
+7) Domain
+    * Possible $x$ values of function ($x\in\mathbb{R}$)
+8) Range
+    * Possible $y$ values of function ($y\leq$ max or $y\geq$ min)    
