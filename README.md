@@ -10,7 +10,7 @@ A series of notes & presentations, provided by Hyperion University
     - Modern Era Unit (1990s - Present): (coming soon)
 * ### Pre-Calculus 11
     - Quadratics Unit: (coming soon)
-        - Unit I: Quadratic Functions
+        - Unit I: Quadratic Functions, Lesson 1
         - Unit II: Quadratic Equations
         - Unit III: Applications
     - Rational Expressions & Equations Unit: (coming soon)
