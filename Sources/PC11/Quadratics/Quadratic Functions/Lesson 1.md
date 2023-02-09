@@ -64,12 +64,12 @@ $f(x)=a(x-p)^2+q$
     * Based on $a$ value
     <table>
         <tr>
-            <th></th>
+            <th>Value</th>
             <th>+</th>
             <th>-</th>
         </tr>
         <tr>
-            <td>Value</td>
+            <td>Direction</td>
             <td>Up</td>
             <td>Down</td>
         </tr>
