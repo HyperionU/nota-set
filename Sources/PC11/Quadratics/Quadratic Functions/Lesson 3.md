@@ -63,3 +63,5 @@ math: mathjax
 </table>
 
 * **Function:** $f(x)=x^2-10$
+
+---
