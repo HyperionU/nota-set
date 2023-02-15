@@ -121,3 +121,26 @@ math: mathjax
 </table>
 
 ---
+
+## Transposition w/ fractional scalar
+
+* Look at the function $y=\frac{1}{2}(x+3)^2-5$. Again, similar to previous, but scaled by $\frac{1}{2}$.
+
+**Table of Values**
+
+<table>
+    <tr>
+        <th>x</th> <th>y</th> <th>x'</th> <th>y'</th>
+    </tr>
+    <tr>
+        <td>-2</td> <td>4</td> <td>-5</td>
+        <td>-3</td>
+    </tr>
+    <tr>
+        <td>0</td> <td>0</td> <td>-3</td> <td>-5</td>
+    </tr>
+    <tr>
+        <td>2</td> <td>4</td> <td>-1</td> <td>-3</td>
+    </tr>
+</table>
+
