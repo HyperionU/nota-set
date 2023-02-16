@@ -46,7 +46,7 @@ math: mathjax
 
 ---
 
-## Examples
+## Example no. 1
 
 * Translation of 10 units down:
 
@@ -65,3 +65,21 @@ math: mathjax
 * **Function:** $f(x)=x^2-10$
 
 ---
+
+## Example no. 2
+
+* Translation of 4 units right:
+
+<table>
+    <tr>
+        <th>a</th> <td>1</td>
+    </tr>
+    <tr>
+        <th>p</th> <td>4</td>
+    </tr>
+    <tr>
+        <th>q</th> <td>0</td>
+    </tr>
+</table>
+
+* **Function:** $f(x)=(x-4)^2$
