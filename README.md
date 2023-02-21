@@ -12,7 +12,7 @@ A series of notes & presentations, provided by Hyperion University
     - Quadratics Unit: (coming soon)
         - Unit I: Quadratic Functions, Lesson 1-4
         - Unit II: Quadratic Equations (coming soon, v0.2.2)
-        - Unit III: Applications
+        - Unit III: Applications (coming soon, v0.2.3)
     - Rational Expressions & Equations Unit: (coming soon)
         - Unit IVa: Rational Expressions
         - Unit IVb: Rational Equations
