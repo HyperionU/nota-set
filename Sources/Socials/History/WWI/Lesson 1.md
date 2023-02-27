@@ -34,4 +34,12 @@ paginate: true
 * An attitude where the military is used as a means to solve problems or disputes.
 * Often referred to as "Sabre Rattling"
     * Prior to the war, Britain and Germany had been involved in a frantic **arms race.** It was largely naval, as both produced larger battleships. Naval power ensured countries could support and defend colonies.
-    * Many conflicts were resolved through posturing a show of force: "Gunboat Diplomacy".
+    * Many conflicts were resolved through posturing a show of force: *"Gunboat Diplomacy"*.
+
+---
+
+## Imperialism
+
+* The attitude whereby a country builds an empire to increase its own strength and wealth.
+    * Germany was racing to build a colonial empire, putting them at odds with Britain.
+    * Many countries raced to develop holdings in Africa and the Pacific. Pride caused many conflicts and disputes.
