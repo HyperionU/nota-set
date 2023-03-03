@@ -43,3 +43,21 @@ paginate: true
 * The attitude whereby a country builds an empire to increase its own strength and wealth.
     * Germany was racing to build a colonial empire, putting them at odds with Britain.
     * Many countries raced to develop holdings in Africa and the Pacific. Pride caused many conflicts and disputes.
+    * Britain claimed, "The sun never sets on the British Empire."
+
+---
+
+## Alliances
+
+* A series of secret and public treaties to protect countries. Although defensive, they ensured once hostilities erupted, **all** of Europe would be dragged in.
+    * Triple Entente (Allies) - Britain, France & Russia
+    * Triple Aliance (Central) - Germany, Austria-Hungary & Italy
+    * Even when countries attempted to stay out of conflict, treaties & alliances dragged them in (spiral into absolute war).
+
+---
+
+## Nationalism
+
+* A strong sense of pride in one's culture and ethnic background. Can, but does not have to refer to one's "country".
+    * Major Powers were Ultra-nationalistic (nationalistic to the point of supremacy). They were considered "Jingoistic" (self-obsessed, super patriotic, flag waving, etc.)
+    * Countries sharing a linguistic, ethnic or cultural link felt an allegiance to each other. (Nationalism encourages Alliances).
