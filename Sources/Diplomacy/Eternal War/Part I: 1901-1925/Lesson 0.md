@@ -17,7 +17,7 @@ style: |
 
 ---
 
-## Lesson 1: Starting Scramble (1901-1904)
+## Lesson 0: Introduction to the Eternal War
 
 ---
 
