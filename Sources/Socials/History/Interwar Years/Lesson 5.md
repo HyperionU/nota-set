@@ -17,7 +17,7 @@ style: |
 
 ---
 
-# Lesson 4: Tensions Overseas
+# Lesson 5: Tensions Overseas
 
 ---
 
@@ -96,4 +96,3 @@ style: |
 * Many Jews began to flee Germany
 * A Canadian cabinet member suggested Canada accepts 10k refugees
     * Canada's Immigration Director states: "None is too many."
-    
