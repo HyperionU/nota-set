@@ -17,7 +17,7 @@ style: |
 
 ---
 
-# Lesson 4: 1930's Canada, Part I
+# Lesson 4a: 1930's Canada, Part I
 
 ---
 

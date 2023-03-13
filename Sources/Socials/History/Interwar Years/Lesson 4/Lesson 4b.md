@@ -29,7 +29,7 @@ style: |
 
 ---
 
-# Lesson 5: 1930's Canada, Part II
+# Lesson 4b: 1930's Canada, Part II
 
 ---
 
