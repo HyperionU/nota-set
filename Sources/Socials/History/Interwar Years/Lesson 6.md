@@ -42,3 +42,13 @@ style: |
 
 ---
 
+## 1938: Appeasement
+
+* Hiter demanded to take over the Sudetenland, a German-speaking part of Czechoslovakia
+* September, at the **Munich Conference**, leaders of Britain & France met with Hitler.
+* Hitler promised this would be his last territorial demand.
+* British PM Neville Chamberlain returned to London proclaiming he secured "Peace for our time."
+* Hitler thought Chamberlain was a push-over, appeasement only encouraged him!
+
+---
+
