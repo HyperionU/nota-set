@@ -4,16 +4,16 @@ A series of notes & presentations, provided by Hyperion University
 * ### Social Studies 10
     - Government Unit: Lessons 1-6
     - WWI Unit (1914 - 1918): Lessons 1-6
-    - Interwar Years Unit (1919 - 1938): (coming soon, v0.5.1)
+    - Interwar Years Unit (1919 - 1938): Lessons 1-6
     - WWII Unit (1939 - 1945): (coming soon, v0.8.1)
     - Cold War / Post WWII Unit (1945 - 1990's): (coming soon, v0.9.1)
     - Modern Era Unit (1990s - Present): (coming soon, v1.0.0)
 * ### Pre-Calculus 11
-    - Quadratics Unit: (coming soon)
+    - Quadratics Unit:
         - Unit I: Quadratic Functions, Lessons 1-4
         - Unit II: Quadratic Equations, Lessons 1-4
         - Unit III: Applications: Lessons 1 & 2
-    - Rational Expressions & Equations Unit: (coming soon, v0.4.1)
+    - Rational Expressions & Equations Unit: Lessons 1-4
         - Unit IVa: Rational Expressions
         - Unit IVb: Rational Equations
     - Radicals Unit: (coming soon, v0.6.1)
