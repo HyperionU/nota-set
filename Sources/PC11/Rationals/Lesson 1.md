@@ -40,7 +40,7 @@ math: mathjax
 ## Simplifying Rational Expressions, Part 1
 
 * Ex. $\frac{12x^3y}{15x^2y^2}$
-    * $\frac{3}{3}*\frac{4xy^-1}{5}$
+    * $\frac{3}{3}*\frac{4xy^{-1}}{5}$
     * $\frac{4x}{5y}$
 
 * When we simplify, we break the numerator and denominator into base components and determining what "cancels out". This works for both basic fractions & rational expressions.
