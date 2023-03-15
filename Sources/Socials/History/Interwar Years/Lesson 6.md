@@ -52,3 +52,26 @@ style: |
 
 ---
 
+## Hitler's Progression
+
+* Germany, according to the Treaty of Versailles:
+    * restricted from having a significant army,
+    * Rhineland (western segment) was disarmed,
+    * was not allowed to unite with Austria.
+* Unfortunately, Hitler wanted to expand Germany's borders to create "Living Space" (Lebensraum)
+* He risked war, but successfully judged the timing of his actions & reactions of others.
+* He finally guessed wrong in 1939.
+* Britain threatened war if Germany invaded Poland.
+
+---
+
+## Seven Steps to War:
+
+1) March 1935 - **Rearm & Reclaim Saar** by election
+2) March 1936 - Remilitarize **Rhineland**
+3) March 1938 - Unite with **Austria**
+4) Sept 1938 - Occupy **Sudetenland**
+5) March 1939 - Germany annexes **Czechoslovakia**
+6) Aug 1939 - Hitler & Stalin sign **Nazi-Soviet Pact**
+7) Sept 1939 - Invade **Poland**
+
