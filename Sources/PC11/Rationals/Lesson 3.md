@@ -75,6 +75,6 @@ math: mathjax
     * ADD NPVs: $c\neq1$, Cross-cancel
 4) $\frac{c(c+1)}{(c-1)}, c\neq0,\pm7,1$
 
----
+
 
 
