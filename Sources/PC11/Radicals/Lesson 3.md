@@ -21,7 +21,7 @@ $\newcommand{\quad}[3]{\frac{-#2\pm\sqrt{(#2)^2-4(#1)(#2)}}{2(#1)}}$
 
 ---
 
-## Lesson 3: Rational Equations
+## Lesson 3: Radical Equations
 
 ---
 
