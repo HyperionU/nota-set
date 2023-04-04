@@ -38,3 +38,7 @@ A series of notes & presentations, provided by Hyperion University
     - Emergency National Service
     - Colour Strike
     - 1979 Strike: The Strike to End All Strikes
+* ### Pre-Calculus 12 (coming soon)
+* ### Calculus 12 (coming soon)
+* ### Physics 11 (coming soon)
+* ### Political Studies (coming soon)
