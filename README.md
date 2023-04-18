@@ -19,7 +19,7 @@ A series of notes & presentations, provided by Hyperion University
     - Radicals Unit: Lesson 1-3
         - Unit Va: Radical Expressions
         - Unit Vb: Radical Equations
-    - Trigonometry Unit: (coming soon, v0.7.1)
+    - Trigonometry Unit: Lesson 1-5
         - Unit VIa: Sine & Cosine Law
         - Unit VIb: Angles in Std. Position & Special Triangles
         - Unit VIc: Trigonometric Ratios
