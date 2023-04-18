@@ -59,7 +59,7 @@ $\newcommand{\pN}[2]{\frac{\opS[#1]}{#2}}$
     * Find a side.
 * Only use two proportions when solving
 * **Must** be one full proportion
-* Notation: $\sLN$ for side, $\sAN$
+* Notation: $\sLN$ for side, $\sAN$ for angle.
     * $\sL$: Sine Length Determinant (Sine Law)
     * $\sA$: Sine Angle Determinant (Sine Law)
 
