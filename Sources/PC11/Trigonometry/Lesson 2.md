@@ -18,7 +18,7 @@ $\newcommand{\sid}[1]{\overline{#1}}$
 
 $\newcommand{\deg}{^\circ}$
 $\newcommand{\ipA}{\frac{a}{\opS[A]}}$
-$\newcommand{\sD}{\mathcal{sD}}$
+$\newcommand{\sA}{\mathcal{sA}}$
 $\newcommand{\ang}[1]{\angle #1}$
 
 ---
@@ -34,7 +34,7 @@ $\newcommand{\sLN}[1][N]{\mathcal{sL}(#1)}$
 $\newcommand{\pA}{\frac{\opS[A]}{a}}$
 $\newcommand{\pB}{\frac{\opS[B]}{b}}$
 $\newcommand{\pC}{\frac{\opS[C]}{c}}$
-$\newcommand{\sDN}[1][N]{\mathcal{sD}(#1)}$
+$\newcommand{\sAN}[1][N]{\mathcal{sA}(#1)}$
 $\newcommand{\ref}{\theta_R}$
 
 ---
@@ -59,9 +59,9 @@ $\newcommand{\pN}[2]{\frac{\opS[#1]}{#2}}$
     * Find a side.
 * Only use two proportions when solving
 * **Must** be one full proportion
-* Notation: $\sLN$ for side, $\sDN$
+* Notation: $\sLN$ for side, $\sAN$
     * $\sL$: Sine Length Determinant (Sine Law)
-    * $\sD$: Sine Angle Determinant (Sine Law)
+    * $\sA$: Sine Angle Determinant (Sine Law)
 
 ---
 
@@ -89,19 +89,19 @@ $\newcommand{\pN}[2]{\frac{\opS[#1]}{#2}}$
 
 ---
 
-## Example 2: Angle ($\sD$)
+## Example 2: Angle ($\sA$)
 
 * Determine $\theta$
 1) Define variables.
     * $\sid{WX}=23=y,\ang{W}=\theta,\sid{XY}=18=w,\ang{Y}=72\deg$
     * We have a full proportion.
-2) $\sDN[\theta]=\pN{72}{23}=\pN{\theta}{18}$
+2) $\sAN[\theta]=\pN{72}{23}=\pN{\theta}{18}$
 3) $\times18$ both sides.
-    * $\sDN[\theta]=18\pN{72}{23}$
+    * $\sAN[\theta]=18\pN{72}{23}$
 
 ---
 
 ## Example 2, cont.
 4) Solve.
-    * $\sDN[\theta]=\ioS[0.744]$
-    * $\sDN[\theta]=48.1\deg$
+    * $\sAN[\theta]=\ioS[0.744]$
+    * $\sAN[\theta]=48.1\deg$
