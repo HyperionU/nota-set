@@ -5,7 +5,7 @@ A series of notes & presentations, provided by Hyperion University
     - Government Unit: Lessons 1-6
     - WWI Unit (1914 - 1918): Lessons 1-6
     - Interwar Years Unit (1919 - 1938): Lessons 1-6
-    - WWII Unit (1939 - 1945): (coming soon, v0.8.1)
+    - WWII Unit (1939 - 1945): Lessons 1-9
     - Cold War / Post WWII Unit (1945 - 1990's): (coming soon, v0.9.1)
     - Modern Era Unit (1990s - Present): (coming soon, v1.0.0)
 * ### Pre-Calculus 11
