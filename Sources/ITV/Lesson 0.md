@@ -89,15 +89,37 @@ ITV (as a network), has been through a multiude of turbulence througout the 70's
 
 * 1993 - 1997: Franchising Changes
     * Yorkshire + Tyne Tees merge (1992)
-        * 1994 Franchise Changes
-    * Central $\rightarrow$ Carlton 
-    * LWT $\rightarrow$ Granada
-    * Anglia $\rightarrow$ Meridian 
+    * 1994 Franchise Changes
+        * Central $\rightarrow$ Carlton 
+        * LWT $\rightarrow$ Granada
+        * Anglia $\rightarrow$ Meridian 
     * Westcountry $\rightarrow$ Carlton (1996)
     * 1997 Franchise Changes
         * Yorkshire-Tyne Tees $\rightarrow$ Granada 
         * Grampian $\rightarrow$ STV
         
+---
+
+## Timeline, pt 4
+
+* 2000-2002: Franchising Changes
+    * 2000: UNM's stations Sold
+        * Meridian $\rightarrow$ Granada
+        * Anglia $\rightarrow$ Granada
+        * HTV $\rightarrow$ Carlton
+    * Border (Capital) $\rightarrow$ Granada (2001)
+* 2002-2005: Consolidation, Phase I
+    * 2002: Granada & Carlton start ITV1 Service
+
+---
+
+## Consolidation: 2002-2016
+
+* 2004: Carlton + Granada $\rightarrow$ ITV 1
+* 2006: STV + Grampian $\rightarrow$ STV
+* 2009: GMTV $\rightarrow$ ITV Breakfast
+* 2011: Channel $\rightarrow$ ITV 
+* 2016: UTV $\rightarrow$ ITV (sort of)
 
 
 
