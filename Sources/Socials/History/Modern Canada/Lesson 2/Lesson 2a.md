@@ -16,3 +16,18 @@ class: invert
 
 ---
 
+## The FLQ
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bandera_FLQ.svg/1200px-Bandera_FLQ.svg.png)
+
+* The Front de Libération du Québec (FLQ) was a militant pro-Quebec seperatism group.
+* They would attempt to succeed by any means necessary.
+* 1963-70: Planted 85 bombs in mailboxes, killing 6.
+
+---
+
+## The Official Languages Act
+
+* 1969: The Official Languages Act is passed. This allowed anyone to connect with government services in either English or French, making these services bilingual.
+
+
