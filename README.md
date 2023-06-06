@@ -6,8 +6,8 @@ A series of notes & presentations, provided by Hyperion University
     - WWI Unit (1914 - 1918): Lessons 1-6
     - Interwar Years Unit (1919 - 1938): Lessons 1-6
     - WWII Unit (1939 - 1945): Lessons 1-9
-    - Cold War / Post WWII Unit (1945 - 1990's): (coming soon, v0.9.1)
-    - Modern Era Unit (1990s - Present): (coming soon, v1.0.0)
+    - Early Cold War Unit (1945 - 1968): (coming soon, v0.9.1)
+    - Modern Era Unit (1968 - cir. 2000): (coming soon, v1.0.0)
 * ### Pre-Calculus 11
     - Quadratics Unit:
         - Unit I: Quadratic Functions, Lessons 1-4
