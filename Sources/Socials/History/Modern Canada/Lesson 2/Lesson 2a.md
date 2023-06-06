@@ -2,11 +2,15 @@
 marp: true
 theme: uncover
 class: invert
+style: |
+    .darken{
+        color: grey;
+    }
 ---
 
 # <!--fit-->Social Studies 10 Lessons :book:
 
-<span style="color:grey">By:</span> Gen L
+<span class="darken">By:</span> Gen L
 
 <!--_footer: In partnership with Hyperion University, 2023-->
 
