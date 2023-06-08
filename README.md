@@ -8,7 +8,7 @@ A series of notes & presentations, provided by Hyperion University
     - WWII Unit (1939 - 1945): Lessons 1-9
     - Early Cold War Unit (1945 - 1968): Lessons 1-6
     - Modern Canada Unit (1968 - 1999): (coming soon, v1.0.0)
-* ### Pre-Calculus 11
+* ### Pre-Calculus 11: Complete
     - Quadratics Unit:
         - Unit I: Quadratic Functions, Lessons 1-4
         - Unit II: Quadratic Equations, Lessons 1-4
