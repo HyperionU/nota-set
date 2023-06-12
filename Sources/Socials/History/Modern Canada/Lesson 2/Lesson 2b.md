@@ -30,3 +30,25 @@ style: |
 ---
 
 ## October Crisis: Canada Strikes
+
+* 12 Oct, 1970: Armed Forces deployed to guard federal buildings & FLQ targets in Ottawa & Montreal
+* 13 Oct: Trudeau is asked by a reporter, "How far are you going to go?" to which Trudeau replied "Well, just watch me!"
+* 16 Oct: Trudeau invokes the War Measures Act, suspending civil liberties & individual rights.
+
+---
+
+## A Means to An End: October Crisis
+
+* The War Measures Act allowed Police to jail people w/o charges & search homes w/o a warrant; 
+    * 465 Canadians were arrested as a result.
+* 17 Oct, 1970: Pierre Laporte's body is found dead in a car's trunk.
+* Dec, 1970: Police find James Cross and his captors were given safe passage to Cuba.
+
+---
+
+## The Result
+
+* Pierre Laporte's kidnappers were found, tried & convicted of kidnapping & murder.
+* The War Measures Act has never before been used in peacetime, and the need for it is still debated today.
+* Eventually, the War Measures Act became the Emergencies Act.
+* The crisis tarnished all seperatist movements in Quebec, but they were still looking for change...
