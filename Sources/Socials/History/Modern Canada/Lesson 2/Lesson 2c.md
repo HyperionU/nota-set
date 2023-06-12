@@ -31,7 +31,7 @@ style: |
 
 ## The Question: Seperation
 
-* 1980: A question is posed to the people of Quebec - Should Quebec negotiate for Soverign-Association?
+* 1980: A question is posed to the people of Quebec - Should Quebec negotiate for Sovereign-Association?
 * Trudeau promised to reform the constitution if Quebec voted NO.
 * 20 May, 1980: the NO side won with 59.9% of the vote.
 * René Lévesque responds with hope: "If I have understood you clearly, you are telling us, 'until the next time.'"
