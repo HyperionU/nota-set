@@ -1,13 +1,13 @@
 # Nota-Set
 A series of notes & presentations, provided by Hyperion University
 ## Notes List:
-* ### Social Studies 10
+* ### Social Studies 10: Complete
     - Government Unit: Lessons 1-6
     - WWI Unit (1914 - 1918): Lessons 1-6
     - Interwar Years Unit (1919 - 1938): Lessons 1-6
     - WWII Unit (1939 - 1945): Lessons 1-9
     - Early Cold War Unit (1945 - 1968): Lessons 1-6
-    - Modern Canada Unit (1968 - 1999): (coming soon, v1.0.0)
+    - Modern Canada Unit (1968 - 1999): Lessons 1-5
 * ### Pre-Calculus 11: Complete
     - Quadratics Unit:
         - Unit I: Quadratic Functions, Lessons 1-4
