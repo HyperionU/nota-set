@@ -122,7 +122,7 @@ style: |
 ## Yugoslavia: The Troops Dallaire Wanted
 
 * 1991: Civil War in Yugoslavia
-* 1995: Under request of the UN, NATO forces (including Canadians) were sent as peacekeepers to Bosnia-Herzegovina.
+* 1995: Under advice of the UN, NATO forces (including Canadians) were sent as peacekeepers to Bosnia-Herzegovina.
 * Peace proved elusive, Serbian forces were killing Muslims.
 * 1998: NATO threatens strikes against Serbians in Kosovo
 
