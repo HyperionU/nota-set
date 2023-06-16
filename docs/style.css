@@ -1,7 +1,31 @@
 :root{
-    --background: rgb(25,7,7)
+    --background: rgb(25,7,7);
+    --border: rgba(255,255,255,0.1)
+}
+
+*{
+    box-sizing: border-box;
 }
 
 body{
     background-color: var(--background);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0px;
+    overflow: hidden;
+}
+nav{
+    display: flex;
+  width: 100%;
+  border-bottom: 1px solid var(--border-color);
+}
+
+nav .section {
+  padding: 3rem 2rem;
+  display: flex;
+  gap: 1rem;
+  border-left: 1px solid var(--border-color);
+  align-items: center;
+  justify-content: center;
 }
