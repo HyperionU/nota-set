@@ -21,4 +21,5 @@ The system will be switched over, by the **FEWP** team in stages. Here's what to
 5. Radicals
 6. Trigonometry
 7. Design & Refinement
-
+### **How will I know when it's switching over?**
+Most switchovers will be more silent. It would just be where the link you're sent to changing. Some may detail when the switchover is happening, some may not.
