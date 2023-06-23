@@ -1,6 +1,8 @@
-# Nota-Set
+<link href="style.css" rel="stylesheet"></link>
+
+# ***Nota-Set***
 A series of notes & presentations, provided by Hyperion University
-## Notes List:
+## **Notes List:**
 * ### [Social Studies 10](ss10.md): Complete
     - Government Unit: Lessons 1-6
     - WWI Unit (1914 - 1918): Lessons 1-6

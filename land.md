@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # ***Nota-Set***
 ## **The FEWP**
 

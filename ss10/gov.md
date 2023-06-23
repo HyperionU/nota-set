@@ -1,3 +1,5 @@
+<link href="../style.css" rel="stylesheet"></link>
+
 # ***Nota-Set***
 ## Socials 10 - Government
 ## **Introduction**
