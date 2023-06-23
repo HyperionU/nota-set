@@ -1,4 +1,3 @@
-
 # ***Nota-Set***
 ## Socials 10 - Government
 ## **Introduction**

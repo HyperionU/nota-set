@@ -1,4 +1,3 @@
-
 # ***Nota-Set***
 ## Socials 10 - World War I (1914-1918) 
 ## **Introduction**

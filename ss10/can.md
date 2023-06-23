@@ -1,4 +1,3 @@
-
 # ***Nota-Set***
 ## Socials 10 - Modern Canada (1969-1999)
 ## **Introduction**

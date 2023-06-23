@@ -1,4 +1,3 @@
-
 # ***Nota-Set***
 ## Socials 10 - Interwar Years (1919-1939)
 ## **Introduction**
