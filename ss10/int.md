@@ -1,7 +1,7 @@
 # ***Nota-Set***
-## Socials 10 - Interwar Years (1919-1945)
+## Socials 10 - Interwar Years (1919-1939)
 ## **Introduction**
-The period between World War I and World War II, known as the interwar years, was marked by recovery, political changes, economic challenges, and rising tensions. The Treaty of Versailles, signed after WWI, brought territorial changes and unresolved issues. The 1920s saw relative stability and economic growth, while the Great Depression in the 1930s caused widespread unemployment and poverty. Totalitarian regimes rose to power in Germany and Italy, promoting aggressive nationalism. Tensions increased with events like Japan's aggression in Asia and Germany's territorial expansion. Efforts to maintain peace through initiatives like the League of Nations had limited success. The interwar period ended when Germany invaded Poland in 1939, leading to the outbreak of World War II.
+The interwar years in Canada (1918-1939) were a time of mixed experiences. After World War I, Canada saw economic growth and prosperity in the 1920s, with industries booming and cities expanding. However, there were economic disparities and challenges, and the Great Depression in the 1930s worsened conditions for many Canadians. The government responded with relief programs and infrastructure projects to create jobs. Canada also gained more independence from Britain during this time. Internationally, the rise of aggressive ideologies and tensions led to the outbreak of World War II, in which Canada played a significant role.
 
 ---
 
@@ -14,5 +14,3 @@ The period between World War I and World War II, known as the interwar years, wa
     * [Part II](../Notes/Socials/History/Interwar%20Years/Lesson%204%20(1930's%20Canada)/Lesson%204b.html)
 5. [Tensions Overseas](../Notes/Socials/History/Interwar%20Years/Lesson%205%20(Tensions%20Overseas).html)
 6. [Road to War](../Notes/Socials/History/Interwar%20Years/Lesson%206%20(Road%20to%20War).html)
-
-

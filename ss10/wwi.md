@@ -1,8 +1,13 @@
 # ***Nota-Set***
 ## Socials 10 - World War I (1914-1918) 
 ## **Introduction**
+World War I, also known as the Great War, was a major conflict that took place from 1914 to 1918. Canada, as part of the British Empire, joined the war when Britain declared war on Germany. Many Canadians volunteered to fight, believing it was their duty to defend the British Empire.
 
-World War 1 was a major conflict that took place from 1914 to 1918. It involved many countries and was primarily fought in Europe. The war was caused by various factors like nationalism and alliances. Trench warfare and new weapons made it a brutal and deadly conflict. Battles like the Somme and Verdun had significant impacts. The war led to the downfall of empires and brought about social and political changes, including the Russian Revolution. The United States joined the war in 1917, and it ended in 1918 with an armistice and the Treaty of Versailles in 1919. World War 1 caused immense loss of life, reshaped boundaries, and set the stage for future conflicts and geopolitical changes.
+Canadian soldiers participated in significant battles like Ypres, the Somme, and Vimy Ridge. The war was characterized by harsh trench warfare and resulted in heavy casualties. Canadians achieved a notable victory at Vimy Ridge in 1917, but the cost in lives was high.
+
+Life on the front lines was challenging and dangerous, with soldiers facing constant shelling and diseases. The war had a profound impact on Canada, shaping its identity and leading to social changes such as increased rights for women.
+
+The war ended in 1918 when Germany surrendered, and the armistice was signed on November 11. World War I is remembered in Canada as a time of sacrifice and bravery. It had a lasting impact on the nation and is an important part of its history.
 
 ---
 
