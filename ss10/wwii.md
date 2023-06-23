@@ -1,4 +1,3 @@
-<link href="../style.css" rel="stylesheet">
 
 # ***Nota-Set***
 ## Socials 10 - World War II (1939-1945)

@@ -1,4 +1,3 @@
-<link href="../style.css" rel="stylesheet">
 
 # ***Nota-Set***
 ## Socials 10 - World War I (1914-1918) 

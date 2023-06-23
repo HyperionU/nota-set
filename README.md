@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet">
 
 # ***Nota-Set***
 A series of notes & presentations, provided by Hyperion University
