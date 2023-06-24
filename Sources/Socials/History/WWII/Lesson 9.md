@@ -114,10 +114,9 @@ paginate: true
 
 ---
 
-## Hiroshima & Nagasaki, WWII's End
+## Hiroshima & Nagasaki
 
 * 6 Aug, 1945: US drops the first atomic bomb. The city of Hiroshima is obliterated.
 * 9 Aug, 1945: A second bomb is dropped on Nagasaki. The US threatens more, even though it's their last.
 * 15 Aug, 1945: The Japanese are forced to surrender. The destructive power is overwhelming.
-* 2 Sept, 1945: In Tokyo Bay, on the deck of the US Battleship Missouri, the Emperor signs the articles of surrender.
-* WWII is over.
+* 2 Sept, 1945: In Tokyo Bay, on the deck of the US Battleship Missouri, the Emperor signs the articles of surrender. WWII is over.
