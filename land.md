@@ -14,8 +14,8 @@ So, what's left is to connect up the remaining 'channels' to switch over to the 
 The work for this will be done in stages, completing by the 30 Jun, 2023 deadline.
 ### **When Can I Expect the Switchover for a specific unit?**
 The system will be switched over, by the **FEWP** team in stages. Here's what to expect for the time of switchover:
-1. Interwar Years & WWII
-2. Quadratics
+1. Interwar Years & WWII 
+2. Quadratics (current)
 3. Rationals
 4. Post-War Canada
 5. Radicals
