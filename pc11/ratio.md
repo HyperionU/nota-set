@@ -2,6 +2,12 @@
 ## Pre-Calculus 11 - Rationals
 ## **Introduction**
 
+Rational expressions are fractions that have variables in them. They are written like $\frac{P(x)}{Q(x)}$, where $P(x)$ and $Q(x)$ are expressions with variables and coefficients. The denominator cannot be zero.
+
+Rational equations are equations that have these fractions in them. To solve a rational equation, you find the values of the variable that make the equation true.
+
+In simple terms, rational expressions and equations involve fractions with variables. We use them in algebra to solve problems related to rates, proportions, and ratios in real-life situations.
+
 ---
 
 ## **Lessons**:

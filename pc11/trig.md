@@ -2,6 +2,8 @@
 ## Pre-Calculus 11 - Trigonometry
 ## **Introduction**
 
+Trigonometry is a branch of mathematics that deals with triangles. It focuses on the relationships between angles and sides of triangles. The primary trigonometric functions are sine, cosine, and tangent (sin, cos, and tan), which relate angles to the ratios of sides. Sine compares the side opposite an angle to the hypotenuse, cosine compares the adjacent side to the hypotenuse, and tangent compares the opposite side to the adjacent side. Trigonometry helps solve problems involving triangle measurements, such as finding side lengths or angles. It has applications in various fields and is used to understand distances, heights, angles, and periodic patterns.
+
 ---
 
 ## **Lessons**:
