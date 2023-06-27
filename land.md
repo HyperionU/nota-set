@@ -17,8 +17,8 @@ The system will be switched over, by the **FEWP** team in stages. Here's what to
 1. Interwar Years & WWII 
 2. Quadratics 
 3. Rationals
-4. Post-War Canada (current)
-5. Radicals
+4. Post-War Canada 
+5. Radicals (Current)
 6. Trigonometry
 7. Design & Refinement
 
