@@ -57,7 +57,7 @@ style: |
 
 ## 70's Economics: '72 - '74
 
-* 1972: Canada elects a Liberal minoritg gov't.
+* 1972: Canada elects a Liberal minority gov't.
 * Trudeau indexed pensions and began a spending deficit.
 * 1974: He won back a majority.
 * To limit US control of the economy, Trudeau establishes FIRA (*Foreign Investment Review Agency*).
