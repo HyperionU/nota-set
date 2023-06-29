@@ -18,3 +18,8 @@ h1, h2, h3, a, p, span, li{
 a {
   text-decoration: none;
 }
+
+a:hover {
+  color: rgb(154, 38, 38);
+  transition: color 0.2s ease-in-out;
+}
