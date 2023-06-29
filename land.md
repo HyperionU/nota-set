@@ -18,7 +18,7 @@ The system will be switched over, by the **FEWP** team in stages. Here's what to
 2. Quadratics 
 3. Rationals
 4. Post-War Canada 
-5. Radicals (Current)
-6. Trigonometry
+5. Radicals 
+6. Trigonometry (2000-2100, Current)
 7. Design & Refinement
 
