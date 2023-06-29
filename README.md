@@ -42,4 +42,7 @@ A series of notes & presentations, provided by Hyperion University
 * ### Calculus 12 (coming soon)
 * ### Physics 11 (coming soon)
 * ### Political Studies (coming soon)
+
+---
+## **Status Badges**
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml)
