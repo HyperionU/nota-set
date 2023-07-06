@@ -48,7 +48,7 @@ A series of notes & presentations, provided by Hyperion University
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml) 
 ![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
-![NKMNT Addition](https://img.shields.io/badge/NKMNT-false-darkred)
+![NKMNT Addition](https://img.shields.io/badge/NKMNT-In_Progress-goldenrod)
 
 
 
