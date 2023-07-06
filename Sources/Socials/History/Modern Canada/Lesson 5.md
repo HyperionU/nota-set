@@ -50,7 +50,7 @@ style: |
 
 ## The Next Time, cont.
 
-* 30 Oct, 1995: The results were in. 49.4% *Yes*, 50.6%. (*This was shockingly close.*)
+* 30 Oct, 1995: The results were in. 49.4% *Yes*, 50.6% *No*. (*This was shockingly close.*)
 * A shocked Canada realized that it survived by .4%.
 * Lacking a clear victory, seperatists lost momentum.
 * Chrétien established rules making future referendum questions clearer & consequences harder should Quebec ever seperate.
