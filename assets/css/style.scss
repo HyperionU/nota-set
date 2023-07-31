@@ -1,25 +1,35 @@
----
----
-
 @import "{{ site.theme }}";
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Rubik&display=swap');
 
-body{
-  background-color: #190707;
+:root {
+  --text: #d4fcea;
+  --background: #111111;
+  --primary: #6f0606;
+  --secondary: #2b0303;
+  --accent: #ec0e0e;
 }
 
-h1, h2, h3, a, p, span, li{
+body {
+  background-color: var(--background);
+}
+
+h1,
+h2,
+h3,
+a,
+p,
+span,
+li {
   font-family: "Rubik", sans-serif;
   font-weight: 400;
-  color: white;
+  color: var(--text);
 }
-  
+
 a {
   text-decoration: none;
 }
 
 a:hover {
-  color: rgb(154, 38, 38);
+  color: var(--accent);
   transition: color 0.2s ease-in-out;
 }
