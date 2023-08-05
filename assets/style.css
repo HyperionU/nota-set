@@ -146,22 +146,6 @@ main > article:nth-child(2) > .a-img {
   background-image: linear-gradient(black, green);
 }
 
-main > article:nth-child(3) > .a-img {
-  background-image: linear-gradient(black, blue);
-}
-
-main > article:nth-last-child(3) > .a-img {
-  background-image: conic-gradient(red, black);
-}
-
-main > article:nth-last-child(2) > .a-img {
- background-image: conic-gradient(green, black);
-}
-
-main > article:last-child > .a-img{
- background-image: conic-gradient(blue, black);
-}
-
 main > article > .a-img {
  background-position: center;
  background-size: cover;
