@@ -40,13 +40,13 @@ a:hover {
 nav {
   display: flex;
   width: 100%;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--primary);
 }
 item {
   padding: 3rem 2rem;
   display: flex;
   gap: 1rem;
-  border-left: 1px solid var(--border);
+  border-left: 1px solid var(--primary);
   align-items: center;
   justify-content: center;
 }
@@ -130,11 +130,11 @@ main > article > .a-section {
 }
 
 main > article > .a-desc, main > article > cnav {
-  border-left: 1px solid var(--border);
+  border-left: 1px solid var(--primary);
 }
 
 main > article > .a-title, main > article > cnav {
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--primary);
 }
 
 /*Article Img Styles*/
@@ -203,7 +203,7 @@ main > article > cnav > button:hover {
 }
 
 main > article > cnav > button:last-child {
-  border-left: 1px solid var(--border);
+  border-left: 1px solid var(--primary);
 }
 
 /*YT Link / Source link Styles*/
