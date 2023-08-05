@@ -8,5 +8,4 @@ include:
   - pc11.md
   - ss10
   - pc11
-theme: minima
 markdown: GFM
