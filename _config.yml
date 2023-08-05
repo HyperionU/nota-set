@@ -6,6 +6,4 @@ relative_links:
 include:
   - ss10.md
   - pc11.md
-  - ss10
-  - pc11
 markdown: GFM
