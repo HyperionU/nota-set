@@ -1,2 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - ss10.md
+  - pc11.md
+  - ss10
+  - pc11
 theme: minima
 markdown: GFM
