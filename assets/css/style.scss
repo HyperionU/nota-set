@@ -15,8 +15,6 @@
 body {
   background-color: var(--background);
   color: var(--text);
-  display: flex;
-  flex-direction: column;
   margin: 0;
 }
 
@@ -30,55 +28,15 @@ h1, h2, h3, a, p, span {
   color: var(--text);
 }
 
+h1{
+  text-align: center;
+}
+
 a {
   text-decoration: none;
 }
 
 a:hover {
   color: var(--accent);
-  transition: color 0.2s ease-in-out;
-}
-
-nav {
-  display: flex;
-  width: 100%;
-  border-bottom: 1px solid var(--primary);
-}
-
-nav > div {
-  padding: 3rem 2rem;
-  display: flex;
-  gap: 1rem;
-  border-left: 1px solid var(--primary);
-  align-items: center;
-  justify-content: center;
-}
-
-#logo {
-  justify-content: flex-start;
-}
-
-#logo > a > i {
-  font-size: 2.5rem;
-}
-
-#logo, #links {
-  flex-basis: calc(100% / 3);
-}
-
-#social, #contact {
-  flex-grow: 1;
-}
-
-#links {
-  gap: 6rem;
-}
-
-#social {
-  gap: 3rem;
-}
-
-.fa-twitter:hover {
-  color: #1da1f2;
   transition: color 0.2s ease-in-out;
 }
