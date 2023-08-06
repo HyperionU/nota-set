@@ -2,6 +2,7 @@
 A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nodes"></i> Hyperion University](http://hyperionu.github.io).
 ## **Notes List:**
 * ### [<i class="fa-solid fa-globe"></i> Social Studies 10](ss10.md)
+
     ### Introduction
 
     During the period from 1914 to 2000, Canada transitioned from a British colony to an independent nation and played a crucial role in significant global events. 
@@ -10,6 +11,7 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
     
     The country's cultural impact grew as immigrants from diverse backgrounds settled there. Additionally, Canada experienced economic growth, becoming one of the wealthiest nations globally and contributing significantly to international trade and diplomacy.
 * ### [<i class="fa-solid fa-circle-xmark"></i> Pre-Calculus 11](pc11.md)
+
     ### Introduction
 
     Quadratics is about solving equations with squared terms (ax^2 + bx + c = 0), and their graphs are parabolas. 
