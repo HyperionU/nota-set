@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - Quadratic Functions
 ## **Introduction**
 
@@ -12,3 +12,5 @@ Quadratic functions involve a variable squared, represented by an equation of th
 2. [Graphing Using Transformations](../../Notes/PC11/Quadratics/Quadratic%20Functions/Lesson%202%20(Graphing%20Using%20Transformations).html)
 3. [Writing Using Transformations](../../Notes/PC11/Quadratics/Quadratic%20Functions/Lesson%203%20(Writing%20Equations%20Using%20Transformations).html)
 4. [Completing The Square](../../Notes/PC11/Quadratics/Quadratic%20Functions/Lesson%204%20(Completing%20the%20Square).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
