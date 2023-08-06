@@ -2,14 +2,15 @@
 A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nodes"></i> Hyperion University](http://hyperionu.github.io).
 ## **Notes List:**
 * ### [<i class="fa-solid fa-globe"></i> Social Studies 10](ss10.md)
-    #### Introduction
+    ### Introduction
+
     During the period from 1914 to 2000, Canada transitioned from a British colony to an independent nation and played a crucial role in significant global events. 
 
     In World War I and II, Canadian forces fought bravely alongside Britain and its allies. After gaining more independence, Canada became a prominent peacekeeping nation during the Cold War, participating in UN missions worldwide. 
     
     The country's cultural impact grew as immigrants from diverse backgrounds settled there. Additionally, Canada experienced economic growth, becoming one of the wealthiest nations globally and contributing significantly to international trade and diplomacy.
 * ### [<i class="fa-solid fa-circle-xmark"></i> Pre-Calculus 11](pc11.md)
-    #### Introduction
+    ### Introduction
 
     Quadratics is about solving equations with squared terms (ax^2 + bx + c = 0), and their graphs are parabolas. 
 
