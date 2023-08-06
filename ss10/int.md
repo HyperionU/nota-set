@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Socials 10 - Interwar Years (1919-1939)
 ## **Introduction**
 The interwar years in Canada (1918-1939) were a time of mixed experiences. After World War I, Canada saw economic growth and prosperity in the 1920s, with industries booming and cities expanding. However, there were economic disparities and challenges, and the Great Depression in the 1930s worsened conditions for many Canadians. The government responded with relief programs and infrastructure projects to create jobs. Canada also gained more independence from Britain during this time. Internationally, the rise of aggressive ideologies and tensions led to the outbreak of World War II, in which Canada played a significant role.
@@ -14,3 +14,5 @@ The interwar years in Canada (1918-1939) were a time of mixed experiences. After
     * [Part II](../Notes/Socials/History/Interwar%20Years/Lesson%204%20(1930's%20Canada)/Lesson%204b.html)
 5. [Tensions Overseas](../Notes/Socials/History/Interwar%20Years/Lesson%205%20(Tensions%20Overseas).html)
 6. [Road to War](../Notes/Socials/History/Interwar%20Years/Lesson%206%20(Road%20to%20War).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

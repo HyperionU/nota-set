@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Socials 10 - World War II (1939-1945)
 ## **Introduction**
 World War II was a global conflict that took place from 1939 to 1945. It started when Germany invaded Poland, and Canada, alongside other countries like Britain and France, joined the fight against Germany. Canadian soldiers played important roles in battles like the Battle of Britain and the D-Day invasion of Normandy.
@@ -22,3 +22,5 @@ In Canada, World War II is remembered for the bravery and sacrifices of Canadian
 7. [The Eastern Front](../Notes/Socials/History/WWII/Lesson%207%20(The%20Eastern%20Front).html)
 8. [The War In Europe, Part II / III](../Notes/Socials/History/WWII/Lesson%208%20(The%20War%20in%20Europe%2C%20Part%20II%20and%20III).html)
 9. [The War In The Pacific](../Notes/Socials/History/WWII/Lesson%209%20(The%20War%20in%20the%20Pacific%2C%20Part%20I%20and%20II).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

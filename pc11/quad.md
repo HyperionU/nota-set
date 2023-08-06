@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - Quadratics
 ## **Introduction**
 
@@ -11,3 +11,5 @@ Quadratics are equations that involve a variable raised to the power of 2. They 
 1. [Quadratic Functions](quad/func.md)
 2. [Quadratic Equations](quad/equ.md)
 3. [Applications](quad/apply.md)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

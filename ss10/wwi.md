@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Socials 10 - World War I (1914-1918) 
 ## **Introduction**
 World War I, also known as the Great War, was a major conflict that took place from 1914 to 1918. Canada, as part of the British Empire, joined the war when Britain declared war on Germany. Many Canadians volunteered to fight, believing it was their duty to defend the British Empire.
@@ -18,3 +18,5 @@ The war ended in 1918 when Germany surrendered, and the armistice was signed on 
 4. [Technological Advancements](../Notes/Socials/History/WWI/Lesson%204%20(Technological%20Advances).html)
 5. [The War in Canada](../Notes/Socials/History/WWI/Lesson%205%20(The%20War%20in%20Canada).html)
 6. [Key Battles of WWI](../Notes/Socials/History/WWI/Lesson%206%20(Key%20Battles%20of%20WWI).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

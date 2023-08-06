@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - Trigonometry
 ## **Introduction**
 
@@ -12,3 +12,5 @@ Trigonometry is a branch of mathematics that deals with triangles. It focuses on
 3. [Cosine Law](../Notes/PC11/Trigonometry/Lesson%203%20(Cosine%20Law).html)
 4. [Angles and Special Triangles](../Notes/PC11/Trigonometry/Lesson%204%20(Angles%20and%20Special%20Triangles).html)
 5. [Trigonometric Ratios](../Notes/PC11/Trigonometry/Lesson%205%20(Trigonometric%20Ratios).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

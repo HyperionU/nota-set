@@ -1,4 +1,4 @@
-# ***Nota-Set***
+# [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - Rationals
 ## **Introduction**
 
@@ -16,3 +16,5 @@ In simple terms, rational expressions and equations involve fractions with varia
 2. [Adding + Subtracting](../Notes/PC11/Rationals/Lesson%202%20(Adding%20%2B%20Subtracting).html)
 3. [Multiplying + Dividing](../Notes/PC11/Rationals/Lesson%203%20(Multipling%20%2B%20Dividing).html)
 4. [Equations](../Notes/PC11/Rationals/Lesson%204%20(Equations).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
