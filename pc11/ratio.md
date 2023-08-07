@@ -1,5 +1,5 @@
 # [***Nota-Set***](index.md)
-## Pre-Calculus 11 - Rationals
+## Pre-Calculus 11 - <i class="fa-solid fa-divide"></i>  Rationals
 ## **Introduction**
 
 Rational expressions are fractions that have variables in them. They are written like $\frac{P(x)}{Q(x)}$, where $P(x)$ and $Q(x)$ are expressions with variables and coefficients. The denominator cannot be zero.

@@ -1,5 +1,5 @@
 # [***Nota-Set***](index.md)
-## Pre-Calculus 11 - Radicals
+## Pre-Calculus 11 - <i class="fa-solid fa-square-root-variable"></i> Radicals
 ## **Introduction**
 
 In grade 11, you'll come across radical expressions and equations. Radical expressions involve the square root symbol (√) and finding the square root of a number. For example, √9 is 3 because 3 multiplied by itself equals 9.

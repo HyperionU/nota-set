@@ -1,5 +1,5 @@
 # [***Nota-Set***](index.md)
-## Pre-Calculus 11 - Quadratic Equations
+## Pre-Calculus 11 - <i class="fa-solid fa-superscript"></i> Quadratic Equations
 ## **Introduction**
 
 A quadratic equation has a variable squared (like $x^2$) and is written in the form $ax^2 + bx + c = 0$. We solve quadratic equations to find the values of 'x' that make the equation true. We can solve quadratic equations using methods like factoring, completing the square, the square root principle, or the quadratic formula. The quadratic formula is $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$, where 'a', 'b', and 'c' are known numbers from the equation.
