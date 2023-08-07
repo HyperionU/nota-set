@@ -1,5 +1,5 @@
 # [***Nota-Set***](index.md)
-## Socials 10 - World War I (1914-1918) 
+## Socials 10 - <i class="fa-solid fa-person-military-rifle"></i> World War I (1914-1918) 
 ## **Introduction**
 World War I, also known as the Great War, was a major conflict that took place from 1914 to 1918. Canada, as part of the British Empire, joined the war when Britain declared war on Germany. Many Canadians volunteered to fight, believing it was their duty to defend the British Empire.
 

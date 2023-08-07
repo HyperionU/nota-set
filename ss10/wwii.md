@@ -1,5 +1,5 @@
 # [***Nota-Set***](index.md)
-## Socials 10 - World War II (1939-1945)
+## Socials 10 - <i class="fa-solid fa-circle-radiation"></i> World War II (1939-1945)
 ## **Introduction**
 World War II was a global conflict that took place from 1939 to 1945. It started when Germany invaded Poland, and Canada, alongside other countries like Britain and France, joined the fight against Germany. Canadian soldiers played important roles in battles like the Battle of Britain and the D-Day invasion of Normandy.
 

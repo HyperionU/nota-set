@@ -1,4 +1,5 @@
 # [***Nota-Set***](index.md)
+## Socials 10 - <i class="fa-solid fa-user-secret"></i> Early Cold War (1945-1968)
 ## **Introduction**
 The early part of the Cold War (1945-1968) was a period of tension between the United States and the Soviet Union. Canada played a significant role as a close ally of the United States. Canada joined international institutions like the United Nations and NATO to promote peace and security. Canadian troops participated in the Korean War, and the country was involved in the construction of the DEW Line to detect potential Soviet attacks. Domestic tensions related to the Cold War and anti-communist sentiments emerged in Canada. The Cuban Missile Crisis showcased Canada's diplomatic role as a mediator. Throughout this period, Canada balanced its alliance with the United States and pursued an independent foreign policy at times.
 
