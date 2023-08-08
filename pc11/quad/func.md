@@ -1,4 +1,4 @@
-# [***Nota-Set***](index.md)
+# [***Nota-Set***](../../index.md)
 ## Pre-Calculus 11 - <i class="fa-solid fa-superscript"></i> Quadratic Functions
 ## **Introduction**
 
