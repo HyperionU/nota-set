@@ -1,12 +1,8 @@
----
-math: mathjax
----
-
 # [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - <i class="fa-solid fa-divide"></i>  Rationals
 ## **Introduction**
 
-Rational expressions are fractions that have variables in them. They are written like $\frac{P(x)}{Q(x)}$, where $P(x)$ and $Q(x)$ are expressions with variables and coefficients. The denominator cannot be zero.
+Rational expressions are fractions that have variables in them. They are written like P(x)/Q(x), where P(x) and Q(x) are expressions with variables and coefficients. The denominator cannot be zero.
 
 Rational equations are equations that have these fractions in them. To solve a rational equation, you find the values of the variable that make the equation true.
 
