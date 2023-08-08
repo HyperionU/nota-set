@@ -1,3 +1,7 @@
+---
+math: mathjax
+---
+
 # [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - <i class="fa-solid fa-divide"></i>  Rationals
 ## **Introduction**
