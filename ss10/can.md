@@ -1,4 +1,4 @@
-# [***Nota-Set***](index.md)
+# [***Nota-Set***](../index.md)
 ## Socials 10 - <i class="fa-brands fa-canadian-maple-leaf"></i> Modern Canada (1969-1999)
 ## **Introduction**
 During the later part of the Cold War, Canada pursued a foreign policy emphasizing peacekeeping and diplomacy. Canadians voiced concerns over civil rights, peace, and nuclear disarmament. Canada actively participated in UN peacekeeping missions and played a mediating role in international conflicts. In the 1980s, Canada faced challenges as tensions escalated, with Prime Minister Mulroney supporting some US measures. However, Canada also advocated for disarmament and non-proliferation. Canada recognized the changes in the Soviet Union under Gorbachev and supported peaceful coexistence. The collapse of the Berlin Wall and the dissolution of the Soviet Union had global implications, and Canada played a role in supporting the newly independent countries. Throughout the Cold War, Canada maintained its commitment to peacekeeping, diplomacy, and multilateralism, contributing to global stability.
