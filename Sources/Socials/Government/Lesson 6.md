@@ -49,6 +49,6 @@ math: mathjax
 
 ---
 
-# [Complete Unit <i class="fa-solid fa-circle-check"></i>](../../../ss10.md)
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../History/WWI/Lesson%201%20(Causes%20of%20WWI).html)
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
