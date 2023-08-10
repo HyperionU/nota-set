@@ -132,3 +132,9 @@ math: mathjax
     * Lead originally by Kelowna's Bennetts.
     * '86-'91, scandals result in decline
         * Merged with BC Liberals (now **BC United**)
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(The%20Constitution).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
