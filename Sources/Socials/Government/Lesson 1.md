@@ -71,4 +71,9 @@ paginate: true
 * At the Provincial Level:
     * The **King** is represented by a **Lieutenant Govenor**
     * Our **Premier** is the Head of Government.
- 
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(The%20Legislative%20Branch).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
