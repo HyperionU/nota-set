@@ -1,6 +1,6 @@
 ---
 ---
-
+{
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Rubik&display=swap');
 
@@ -81,4 +81,4 @@ nav {
 
 #social {
   gap: 3rem;
-}}
+}}}
