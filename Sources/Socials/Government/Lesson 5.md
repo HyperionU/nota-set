@@ -70,3 +70,9 @@ math: mathjax
 * The Goal and Purpose of the Government: "Peace, Order and Good Governance." (POGG)
 * Sections 91 & 92 - Divides power between Federal & Provincial Governments.
 * **The Charter of Rights and Freedoms** - Entrenched Rights (Part I of the Canada Act)
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%206%20(Charter%20of%20Rights%20and%20Freedoms).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

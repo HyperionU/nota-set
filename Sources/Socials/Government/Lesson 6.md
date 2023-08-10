@@ -47,3 +47,8 @@ math: mathjax
 * Rarely used in practice
 * Example of usage: Quebec's Language Laws, Ontario-CUPE Labour Dispute
 
+---
+
+# [Complete Unit <i class="fa-solid fa-circle-check"></i>](../../../ss10.md)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
