@@ -56,3 +56,8 @@ math: mathjax
 * 1917: Women with family in CEF given suffrage to support conscription
 * May 1918: All women over 21 gained suffrage.
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%206%20(Key%20Battles%20of%20WWI).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

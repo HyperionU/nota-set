@@ -61,3 +61,9 @@ paginate: true
 * A strong sense of pride in one's culture and ethnic background. Can, but does not have to refer to one's "country".
     * Major Powers were Ultra-nationalistic (nationalistic to the point of supremacy). They were considered "Jingoistic" (self-obsessed, super patriotic, flag waving, etc.)
     * Countries sharing a linguistic, ethnic or cultural link felt an allegiance to each other. (Nationalism encourages Alliances).
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Canada's%20Army%20And%20Response).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

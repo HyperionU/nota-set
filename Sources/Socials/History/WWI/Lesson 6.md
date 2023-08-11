@@ -65,3 +65,9 @@ math: mathjax
 * Canadian troops broke through Germany's "Hindenburg Line"
 * Germans forced to abandon significant amounts of materials as they were slowly pushed back
 * 11 Nov, 1918: Germany surrenders, signing the Armistice in a railcar.
+
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../Interwar%20Years/Lesson%201%20(1919-1920%20Discontent).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

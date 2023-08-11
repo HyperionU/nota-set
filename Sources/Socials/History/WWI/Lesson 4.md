@@ -65,3 +65,8 @@ math: mathjax
     * Victim's skin blistered, eyes became sore, caused internal & external bleeding
     * Usually took 4-5 weeks to die of poisoning.
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(The%20War%20in%20Canada).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
