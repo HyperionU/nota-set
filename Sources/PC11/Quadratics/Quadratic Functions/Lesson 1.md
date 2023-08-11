@@ -104,3 +104,9 @@ $f(x)=a(x-p)^2+q$
     * Possible $x$ values of function ($x\in\mathbb{R}$)
 8) Range
     * Possible $y$ values of function ($y\leq$ max or $y\geq$ min)    
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](/Lesson%202%20(Graphing%20Using%20Transformations).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

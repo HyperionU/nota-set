@@ -194,3 +194,8 @@ $2=a$
 
 * **Function:** $f(x)=2(x-2)^2-3$
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Completing%20the%20Square).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

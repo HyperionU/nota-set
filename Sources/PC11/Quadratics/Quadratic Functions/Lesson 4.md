@@ -96,3 +96,9 @@ process.
 3) $f(x)=4(x^2+6x+9)+29-36$
 4) $f(x)=4(x+3)^2-29+36$
 5) $f(x)=4(x+3)^2-7$
+
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](..//Quadratic%20Equations/Lesson%201%20(Radicals%20&%20Square-Root%20Principle).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
