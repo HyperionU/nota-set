@@ -113,5 +113,8 @@ math: mathjax
 * $w=16\frac{2}{3},\ell=25$
 * $\therefore D:16\frac{2}{3}\text{ yds}\times25\text{ yds}$
 
+---
 
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../../Rationals/Lesson%201%20(Basics).html)
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
