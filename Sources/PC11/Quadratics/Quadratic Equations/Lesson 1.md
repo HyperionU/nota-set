@@ -76,5 +76,9 @@ math: mathjax
     * $x+3=\pm\sqrt{5}$
     * $x=-3\pm\sqrt{5}$
 
+---
 
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Solving%20Quadratics%20-%20Graphing).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
 

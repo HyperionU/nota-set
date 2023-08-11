@@ -39,3 +39,8 @@ math: mathjax
 2) **1** Real Root: The function crosses the x-axis in one distinct place. (often, the vertex is the root in this case)
 3) **0** Real Roots: The function doesn't cross the x-axis in the real plane. ($x\in\mathbb C$).
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(Solving%20Quadratics%20-%20Factoring).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
