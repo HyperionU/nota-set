@@ -58,3 +58,9 @@ Three main causes pinpoint the reason that the world divulged into war.
     * Mussolini (Italy)
 * No back-up military force
 * US didn't join (minimal influence)
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(The%20Home%20Front).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

@@ -78,3 +78,8 @@ paginate: true
 * Charles DeGaulle (CDG) fled to Britain to lead the resistance (**Free French**)
 * May, Winston Churchill replaces Chamberlain as British PM
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(The%20War%20in%20The%20Air).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

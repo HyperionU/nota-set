@@ -75,3 +75,9 @@ paginate: true
         * Women Joined the workforce
     * Able Men 17-44 couldn't work in most jobs.
 * By 1943, quality of goods improved.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(The%20War%20in%20Europe,%20Part%20I).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
