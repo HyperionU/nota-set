@@ -55,3 +55,9 @@ paginate: true
 * Hamburg was bombed so heavily, the fires created their own winds, creating a firestorm.
 * In 1942, there was a 1/3 chance of surviving a tour of duty (30 missions)
 * 17,701 RCAF died, 9,880 of them were with Bomber Command.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(The%20War%20in%20The%20Sea).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
