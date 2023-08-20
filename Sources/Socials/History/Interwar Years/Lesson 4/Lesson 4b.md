@@ -101,3 +101,9 @@ style: |
 * King's reforms also had little success
 * Federal-provincial relations grew strained
 * Outside of Canada, tensions started to grow. *War was on the horizon.*
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](../Lesson%205%20(Tensions%20Overseas).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

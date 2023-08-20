@@ -96,3 +96,9 @@ style: |
 * Many Jews began to flee Germany
 * A Canadian cabinet member suggested Canada accepts 10k refugees
     * Canada's Immigration Director states: "None is too many."
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%206%20(Road%20to%20War).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

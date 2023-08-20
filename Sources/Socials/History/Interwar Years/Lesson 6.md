@@ -75,3 +75,8 @@ style: |
 6) Aug 1939 - Hitler & Stalin sign **Nazi-Soviet Pact**
 7) Sept 1939 - Invade **Poland**
 
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../WWII/Lesson%201%20(Causes%20of%20WWII).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

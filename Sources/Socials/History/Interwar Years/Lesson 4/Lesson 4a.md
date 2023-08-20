@@ -68,7 +68,12 @@ style: |
 * 1935 - over 1 000 BC camp workers left camps in protest.
 * From Vancouver, they decided to go to Ottawa
 * They rode freight trains, picking up supporters along the way.
-* RCMP stopped them in Regina, allowing only the leaders to continue.
+* RCMP stopped them in Regina, allowing the leaders to continue.
 * Leaders met with an angry Bennett, who promptly threw them out.
-* RCMP had orders to clear the stadium, the trekkers resisted, 1 man died, 130 arrested.
+* RCMP ordered to clear the area, the trekkers resisted.
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204b.html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
