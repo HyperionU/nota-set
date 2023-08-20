@@ -57,3 +57,8 @@ style: |
 * Tourism boomed, aided by rail & air travel
 * Average people now had access to a lifestyle that was previously restricted to the very wealthy.
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(Great%20Depression).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
