@@ -166,3 +166,9 @@ bloodiest day in the war.
 * Canadians were greeted enthusiastically by the liberated Dutch
 * 5 May: Canadian Generals accepted the surrender of German armies in their sectors.
 * 7 May: Germany surrendered.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%209%20(The%20War%20in%20the%20Pacific,%20Part%20I%20and%20II).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

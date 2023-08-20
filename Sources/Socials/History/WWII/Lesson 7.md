@@ -46,3 +46,9 @@ paginate: true
 * Russians made a stand at Stalingrad
 * Early 1943, after 300k+ casualties, The Germans surrendered.
 * Soviets went on the offensive, pushing west to Berlin.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%208%20(The%20War%20in%20Europe,%20Part%20II%20and%20III).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

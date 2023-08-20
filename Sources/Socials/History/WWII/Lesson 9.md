@@ -120,3 +120,9 @@ paginate: true
 * 9 Aug, 1945: A second bomb is dropped on Nagasaki. The US threatens more, even though it's their last.
 * 15 Aug, 1945: The Japanese are forced to surrender. The destructive power is overwhelming.
 * 2 Sept, 1945: In Tokyo Bay, on the deck of the US Battleship Missouri, the Emperor signs the articles of surrender. WWII is over.
+
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../Post-War%20Years/Lesson%201%20(The%20Cold%20War%20&%20The%20UN).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
