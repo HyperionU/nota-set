@@ -109,3 +109,9 @@ $\newcommand{\wfr}[1]{\frac{#1}{1}}$
 6) $\frac{2(y-2)}{(y-2)(y+2)}$
     * Combine like terms.
 7) $\frac{2}{y+2}, y\neq0,\pm2$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(Multipling%20+%20Dividing).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
