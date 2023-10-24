@@ -170,3 +170,9 @@ Solve $\opS=-\frac{1}{\sqrt{2}},\range{\theta}=\{\qI,\qII,\qIII,\qIV|[0\deg,360\
 3) Determine $\theta$
     * Use Reference Formulae
 * $\theta=\{225\deg,315\deg|\theta\in\{\qIII,\qIV\}\}$
+
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](https://hyperionu.github.io/Nota-Set)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

@@ -95,3 +95,9 @@ $a^2=b^2+c^2-2bc\ \opC[A]$
 5) $\cAn[\theta]=\ioC[\frac{83}{115}]$
     * $\ioC[\frac{83}{115}]=43.8^\circ$
 6) $\cAn[\theta]=43.8^\circ$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Angles%20and%20Special%20Triangles).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
