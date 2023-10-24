@@ -92,3 +92,8 @@ $\newcommand{\quad}[3]{\frac{-#2\pm\sqrt{(#2)^2-4(#1)(#2)}}{2(#1)}}$
 10) $x=\frac{158+150.997}{2},\frac{158-150.997}{2}$
 11) $x=154.5 (30.1\neq5\text{ER}),3.5$
 
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../Trigonometry/Lesson%201%20(Grade%2010%20Review).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

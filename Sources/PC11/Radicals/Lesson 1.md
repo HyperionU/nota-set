@@ -125,3 +125,8 @@ $\newcommand{\qurt}[1]{\sqrt[4]{#1}}$
     * $(-3\sqrt{3}-4\sqrt{3})+(3\sqrt{5}-4\sqrt{5})$
     * $-7\sqrt{3}-\sqrt{5}$
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Multiplying%20+%20Dividing).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
