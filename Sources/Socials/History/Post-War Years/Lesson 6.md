@@ -42,3 +42,9 @@ style: |
 * April, 1965: Pearson gives a speech at Temple University and spoke of the need for a negotiated settlement.
 * Pres. Johnson, in a meeting the next day, grabbed Pearson by the lapels, and yelled, "You pissed on my rug!"
 * It's fair to say that this was a low point in US-Can Relations
+
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../Modern%20Canada/Lesson%201%20(PM%20Trudeau:%20'68-'79).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

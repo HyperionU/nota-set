@@ -95,3 +95,9 @@ style: |
 * Canada's External Affairs Minister (*and future PM*), Lester Pearson proposes something different: **A UN Peacekeeping Force**.
 * The force helped all sides save face.
 * Pearson won the Nobel Peace Prize for his efforts in ending the crisis.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(PM%20Diefenbaker).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

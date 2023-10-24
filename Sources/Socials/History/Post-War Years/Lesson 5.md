@@ -99,3 +99,9 @@ style: |
 * 1963: Following the Cuban Missile Crisis, the US called out Canada, claiming that Canada "has not yet proposed any significant contribution to the defense of North America."
 * Pearson (Liberal Leader, *remember him?*), said he would accept nuclear warheads as part of Canada's obligation.
 * April, 1963: Dief's gov't fell to Pearson's Liberals.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%206%20(PM%20Pearson).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

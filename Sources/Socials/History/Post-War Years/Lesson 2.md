@@ -51,3 +51,9 @@ style: |
 
 * The blockade lasted until May, 1949: Soviets gave in and allowed land routes to open.
 * Canadian forces did not participate directly, but many Canadian pilots flew American planes during the crisis.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(PM%20St%20Laurent).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

@@ -72,3 +72,9 @@ style: |
 * Canada's position strained Can-US relations.
 * US Sec. of State Acheson later described Canada as "the stern daughter of the voice of god."
 * External Affairs minister *Pearson* said the age of "easy and automatic relations" with the US had ended.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Origin%20of%20Peacekeeping).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
