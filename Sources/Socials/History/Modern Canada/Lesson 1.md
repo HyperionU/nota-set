@@ -72,3 +72,9 @@ style: |
 * Gov't forces them back to work; voters & unions are unhappy. (*this was before the Charter, so they could.*)
 * 1976: Montreal Olympics took on an enormous public debt.
 * 1978: New Plan - No more controls, but deep spending cuts.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](/Lesson%202/Lesson%202a%20(The%20FLQ).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

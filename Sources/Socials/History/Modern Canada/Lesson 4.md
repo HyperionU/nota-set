@@ -147,3 +147,9 @@ style: |
 * He resigned in June 1993
 * Kim Campbell became the leader of the Progressive Conservative Party.
 * She became Canada's first (non-elected) female Prime Minister.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(PM%20Chrétien).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

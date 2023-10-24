@@ -132,3 +132,9 @@ style: |
 
 * Canadian CF-18's fly 10% of NATO air strikes over Kosovo.
 * NATO sends a peacekeeping force to Kosovo, including 1400 Canadians.
+
+---
+
+# [Finish <i class="fa-solid fa-flag-checkered"></i>](https://hyperionu.github.io/Nota-Set)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

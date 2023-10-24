@@ -35,3 +35,9 @@ style: |
 * Trudeau promised to reform the constitution if Quebec voted NO.
 * 20 May, 1980: the NO side won with 59.9% of the vote.
 * René Lévesque responds with hope: "If I have understood you clearly, you are telling us, 'until the next time.'"
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](../Lesson%203%20(PM%20Trudeau:%20'79-'84).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

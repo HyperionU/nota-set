@@ -121,3 +121,8 @@ style: |
 * Turner served as PM until an election in Sept.
 * Sept, 1984: the Progressive Conservative Party, lead by Brian Mulroney, wins a majority Government.
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(PM%20Mulroney).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

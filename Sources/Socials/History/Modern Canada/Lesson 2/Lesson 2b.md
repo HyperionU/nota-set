@@ -52,3 +52,9 @@ style: |
 * The War Measures Act has never before been used in peacetime, and the need for it is still debated today.
 * Eventually, the War Measures Act became the Emergencies Act.
 * The crisis tarnished all seperatist movements in Quebec, but they were still looking for change...
+
+---
+
+# [Next Part <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202c%20(Political%20Seperatism).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
