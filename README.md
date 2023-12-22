@@ -37,6 +37,7 @@ A series of notes & presentations, provided by Hyperion University
         - Tigonometric Identities
     - Exponentials Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
     - Logarithms Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
+    - Composition of Functions Lesson ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
 * ### Calculus 12 (coming soon) ![Static Badge](https://img.shields.io/badge/HTML-Standard-brightgreen?logo=adguard&logoColor=brightgreen)
 * ### Political Studies (coming soon) ![Static Badge](https://img.shields.io/badge/HTML-Standard-brightgreen?logo=adguard&logoColor=brightgreen)
     - Government Unit
