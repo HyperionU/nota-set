@@ -86,7 +86,7 @@ item {
   transition: color 0.2s ease-in-out;
 }
 
-main > aside{
+aside{
     color: white;
     display: flex;
     flex-direction: column;
@@ -98,4 +98,8 @@ main > aside{
     background-color: var(--background); /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
+}
+
+aside > li{
+  color: var(--text);
 }
