@@ -7,7 +7,7 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 
 ### [Pre-Calculus 12](pc12.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-No_Data-grey?logo=adguard)
 
-### [Calculus 12]() ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Standard-limegreen?logo=adguard)
+### [Calculus 12](calc12.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Standard-limegreen?logo=adguard)
 ### Introduction
 
 Calculus is a branch of mathematics that focuses on understanding rates of change and accumulation. There are two main components: differential calculus and integral calculus.
