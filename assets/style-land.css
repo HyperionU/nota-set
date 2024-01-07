@@ -90,17 +90,3 @@ main {
   flex-grow: 1;
   position: relative;
 }
-
-main > aside{
-    color: var(--text);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 160px; /* Set the width of the sidebar */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    top: 0; /* Stay at the top */
-    left: 0;
-    background-color: var(--background); /* Black */
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 20px;
-}
