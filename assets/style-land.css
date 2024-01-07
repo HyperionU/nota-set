@@ -86,8 +86,13 @@ item {
   transition: color 0.2s ease-in-out;
 }
 
-aside{
-    color: white;
+main {
+  flex-grow: 1;
+  position: relative;
+}
+
+main > aside{
+    color: var(--text);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -98,8 +103,4 @@ aside{
     background-color: var(--background); /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
-}
-
-aside > li{
-  color: var(--text);
 }
