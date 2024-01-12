@@ -89,4 +89,10 @@ item {
 main {
   flex-grow: 1;
   position: relative;
+  display: grid;
+  grid-template-rows: 1fr 2fr 2fr;
+}
+
+h1, h2{
+  text-align: center;
 }
