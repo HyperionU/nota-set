@@ -91,6 +91,7 @@ main {
   position: relative;
   display: grid;
   grid-template-rows: 1fr 2fr 2fr;
+  align-items: center;
 }
 
 h1, h2{
