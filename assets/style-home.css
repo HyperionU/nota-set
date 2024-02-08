@@ -203,11 +203,11 @@ main > article > cnav > button {
   cursor: pointer;
 }
 
-main > article > cnav > button:hover {
+main > article > .a-nav > button:hover {
   background-color: rgba(255, 255, 255, 0.02);
 }
 
-main > article > cnav > button:last-child {
+main > article > .a-nav > button:last-child {
   border-left: 1px solid var(--primary);
 }
 
