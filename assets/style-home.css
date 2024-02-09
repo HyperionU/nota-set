@@ -47,6 +47,7 @@ nav {
   width: 100%;
   border-bottom: 1px solid var(--primary);
 }
+
 item {
   padding: 3rem 2rem;
   display: flex;
@@ -134,11 +135,11 @@ main > article > .a-section {
  height: 100%;
 }
 
-main > article > .a-desc, main > article > cnav {
+main > article > .a-desc, main > article > .a-nav {
   border-left: 1px solid var(--primary);
 }
 
-main > article > .a-title, main > article > cnav {
+main > article > .a-title, main > article > .a-nav {
   border-top: 1px solid var(--primary);
 }
 
