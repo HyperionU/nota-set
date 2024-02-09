@@ -189,11 +189,11 @@ main > article > .a-title > h2 {
 }
 
 /*Article Nav Styles*/
-main > article > cnav {
+main > article > .a-nav {
   display: flex;
 }
 
-main > article > cnav > button {
+main > article > .a-nav > button {
   background-color: transparent;
   flex-grow: 1;
   border: none;
