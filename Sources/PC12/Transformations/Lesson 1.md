@@ -65,7 +65,7 @@ A *Vertical Translation* is basically sliding a graph up and down.
 * A vertical translation shifts a graph up and down.
 * How we write a vertical translation:
 
-$y \pm k = f(x)$ or $y = f(x) \mp k$
+$y \mp k = f(x)$ or $y = f(x) \pm k$
 
 ---
 
@@ -142,3 +142,4 @@ $y - k = f(x - h)$ or $y = f(x - h) + k$
     * The new points created *after* a transformation.
 * Mapping Notation:
     * A way to write out how tranformations map a function to its image.
+    * $(x,y) \mapsto (x \mp h, y \pm k)$
