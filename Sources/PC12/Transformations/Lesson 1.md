@@ -123,7 +123,7 @@ $y = f(x \mp h)$
 
 * Now, we have a way to write any translation as a function.
 
-$y \pm k = f(x \mp h)$ or $y = f(x \mp h)\mp k$
+$y - k = f(x - h)$ or $y = f(x - h) + k$
 
 * Translations **DO NOT** change the shape of your graph, just the location of the points.
 
@@ -142,4 +142,3 @@ $y \pm k = f(x \mp h)$ or $y = f(x \mp h)\mp k$
     * The new points created *after* a transformation.
 * Mapping Notation:
     * A way to write out how tranformations map a function to its image.
-    * $(x,y)\mapsto(x \pm h,y \mp k)$
