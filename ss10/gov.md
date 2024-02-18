@@ -6,8 +6,8 @@ The Canadian government is made up of three parts: the executive branch (led by 
 ---
 
 ## **Lessons**:
-1. [What is Government?](../Notes/Socials/Government/Lesson%201%20(What%20is%20Government%3F).html)
-2. [Legislative Branch](../Notes/Socials/Government/Lesson%202%20(The%20Legislative%20Branch).html)
+1. [What is Government?](../unav.md)
+2. [Legislative Branch](../unav.md)
 3. [Executive Branch](../Notes/Socials/Government/Lesson%203%20(The%20Executive%20Branch).html)
 4. [The Electoral Process](../Notes/Socials/Government/Lesson%204%20(Electoral%20Process%20%26%20Political%20Parties).html)
 5. [The Constitution](../Notes/Socials/Government/Lesson%205%20(The%20Constitution).html)
