@@ -4,7 +4,6 @@ If you are seeing this, it probably means that the section you want is currently
 
 For these sections:
 - Quadratics (PC11) -> awaiting conf.
-- Government (SS10)
 
 Please use the dedicated links to these on the Nota-Set homepage.
 
