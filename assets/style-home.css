@@ -144,12 +144,8 @@ main > article > .a-title, main > article > .a-nav {
 }
 
 /*Article Img Styles*/
-main > article:first-child > .a-img {
-  background-image: linear-gradient(black, red);
-}
-
-main > article:nth-child(2) > .a-img {
-  background-image: linear-gradient(black, green);
+main > article > .a-img {
+  background-image: linear-gradient(black, var(--secondary));
 }
 
 main > article > .a-img {
