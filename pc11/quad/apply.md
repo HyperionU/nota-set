@@ -8,7 +8,7 @@ Quadratics are used in math, science, and engineering to solve various problems 
 
 ## **Lessons**:
 
-1. [Applications I](../../Notes/PC11/Quadratics/Applications/Lesson%201%20(Applications%20Part%201).html)
-2. [Applications II](../../Notes/PC11/Quadratics/Applications/Lesson%202%20(Applications%20Part%202).html)
+1. [Applications I](../../unav.md)
+2. [Applications II](../../unav.md)
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
