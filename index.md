@@ -5,6 +5,8 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 
 ### [<i class="fa-solid fa-circle-xmark"></i> Pre-Calculus 11](pc11.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Non_Compliant-red?logo=adguard)
 
+### [<i class="fa-solid fa-superscript"></i> Pre-Calculus 11 - Quadratics](pc11/quad.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
+
 ### [Pre-Calculus 12](pc12.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
 ### [Calculus 12](calc12.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Standard-limegreen?logo=adguard)
