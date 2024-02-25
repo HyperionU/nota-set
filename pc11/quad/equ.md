@@ -15,7 +15,7 @@ Quadratic equations are used in math, science, and engineering to solve various 
 ## **Lessons**:
 
 1. [Radicals / Square Root Principle](../../unav.md)
-2. [Solving - Graphing](../../Notes/PC11/Quadratics/Quadratic%20Equations/Lesson%202%20(Solving%20Quadratics%20-%20Graphing).html)
+2. [Solving - Graphing](../../unav.md)
 3. [Solving - Factoring](../../Notes/PC11/Quadratics/Quadratic%20Equations/Lesson%203%20(Solving%20Quadratics%20-%20Factoring).html)
 4. [Solving - Quadratic Formula](../../Notes/PC11/Quadratics/Quadratic%20Equations/Lesson%204%20(Solving%20Quadratics%20-%20Formula).html)
 
