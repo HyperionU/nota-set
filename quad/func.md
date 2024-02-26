@@ -8,9 +8,9 @@ Quadratic functions involve a variable squared, represented by an equation of th
 
 ## **Lessons**:
 
-1. [Intro](../../unav.md)
-2. [Graphing Using Transformations](../../unav.md)
-3. [Writing Using Transformations](../../unav.md)
-4. [Completing The Square](../../unav.md)
+1. [Intro](../unav.md)
+2. [Graphing Using Transformations](../unav.md)
+3. [Writing Using Transformations](../unav.md)
+4. [Completing The Square](../unav.md)
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
