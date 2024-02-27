@@ -3,7 +3,6 @@
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
 For these sections:
-- Quadratics (PC11) -> awaiting conf.
 
 Please use the dedicated links to these on the Nota-Set homepage.
 
