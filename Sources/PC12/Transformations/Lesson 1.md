@@ -143,3 +143,31 @@ $y - k = f(x - h)$ or $y = f(x - h) + k$
 * Mapping Notation:
     * A way to write out how tranformations map a function to its image.
     * $(x,y) \mapsto (x \mp h, y \pm k)$
+
+---
+
+## Example
+
+What would the following functions look like if they were translated left 4 and up 6?
+
+* $y = \frac{1}{x} \mapsto y - 6 = \frac{1}{x+4}$
+* $y = \log{x} \mapsto y = \log{(x+4)}+6$
+* $y = x^3-3x^2 \mapsto y - 6 = (x+4)^3 - 3(x+4)^2$
+* $y = \frac{5}{x^2} \mapsto y = \frac{5}{(x+4)^2} + 6$
+
+---
+
+## Going Backwards
+
+If $f(x) = |x|$, what is our function $g(x)$ if the vertex is translated 2 right and 3 up?
+
+* Starting with $f(x)$, we can remember our transformation formula: $y - k = f(x - h)$ or $y = f(x - h) + k$
+* Now, we know that $h = 2, k = 3$, so we just plug them in.
+* $y = f(x - 2) + 3$, rewrite in terms of the function:
+* $y = |x - 2| + 3$
+
+---
+
+# Note:
+* You may think this is very easy (it is).
+* But trust me, it gets harder from here.
