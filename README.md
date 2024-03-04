@@ -24,10 +24,6 @@ A series of notes & presentations, provided by Hyperion University
         - Unit VIa: Sine & Cosine Law
         - Unit VIb: Angles in Std. Position & Special Triangles
         - Unit VIc: Trigonometric Ratios
-* ### ITV's Decade of Turbulence (coming soon)
-    - Emergency National Service
-    - Colour Strike
-    - 1979 Strike: The Strike to End All Strikes
 * ### Pre-Calculus 12 (coming soon) 
     - Transformations Unit ![Static Badge](https://img.shields.io/badge/HTML-Standard-brightgreen?logo=adguard&logoColor=brightgreen)
     - Polynomials Unit ![Static Badge](https://img.shields.io/badge/HTML-Standard-brightgreen?logo=adguard&logoColor=brightgreen)
