@@ -1,12 +1,13 @@
 # [***Nota-Set***](../index.md)
-<i class="fa-solid fa-triangle-exclamation"></i>
+<i class="fa-solid fa-triangle-exclamation"></i>\
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
-For these sections:
 - WWI (SS10)
 - Interwar Years (SS10)
 
-Please use the dedicated links to these on the Nota-Set homepage.
+During this time, please use the dedicated links to these on the Nota-Set homepage. 
+
+We apologise for the inconvenience, but this work is a necessary part of the process of switching away from Markdown to HTML.
 
 ## Introduction
 Nota-Set is Changing, and the countdown has begun. Throughout, Nota-Set is switching from Markdown to HTML for its online connections by June 2024. Nota-Set has changed dramatically in the past few years, with its most recent incarnation arriving in June 2023. Change can be confusing, and sometimes scary, but NoMD is here to help.
