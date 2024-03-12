@@ -24,8 +24,8 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 - Calculus 12 - Standard
 - Political Studies - Standard
 1. Transformations & Polynomials (PC12) - Jan/Feb **(Complete)**
-2. Government & Quadratics (SS10 & PC11) - Feb **(In Progress)**
-3. 1914-1938 (SS10) - Mar
+2. Government & Quadratics (SS10 & PC11) - Feb **(Complete)**
+3. 1914-1938 (SS10) - Mar **(In Progress)**
 4. Rationals & Radicals (PC11) - Mar/Apr
 5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover)
 6. Cold War (SS10) - May (SS10 Full Switchover)
