@@ -11,6 +11,7 @@ math: mathjax
 <!--_footer: In partnership with Hyperion University, 2024-->
 
 ---
+<!--paginate: true-->
 
 # Lesson 2: Reflections
 
