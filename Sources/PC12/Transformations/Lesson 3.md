@@ -13,7 +13,7 @@ math: mathjax
 ---
 <!--paginate: true-->
 
-# Lesson 3: Transformations
+# Lesson 3: Stretches
 
 ---
 
