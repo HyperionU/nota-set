@@ -152,3 +152,9 @@ What would the following functions look like if they have been $HS(3), VS(\frac{
 * $y = \frac{1}{2} f(\frac{x}{3})$
 * $\frac{y}{2} = \sqrt{\frac{x}{3}}$
 * $\frac{y}{2} = \log(\frac{x}{3})$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Composition%20of%20Transformations).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

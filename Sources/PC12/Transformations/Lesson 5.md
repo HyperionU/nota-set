@@ -101,3 +101,8 @@ For example, take $y = (x - 3)^2$, and graph its inverse.
 3. $\inv{x} = 2 + \sqrt[3]{x}$
 4. $\inv{x} = \frac{x + 3}{x - 2}$
 
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../../../pc12/poly.html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
