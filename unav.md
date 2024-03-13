@@ -1,5 +1,5 @@
 # [***Nota-Set***](../index.md)
-<i class="fa-solid fa-triangle-exclamation"></i>\
+<i class="fa-solid fa-triangle-exclamation"></i>
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
 - WWI (SS10)
