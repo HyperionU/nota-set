@@ -2,8 +2,8 @@
 <i class="fa-solid fa-triangle-exclamation"></i>
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
-- WWI (SS10) **Switchover Near Complete**
-- Interwar Years (SS10)
+- WWI (SS10) **Switchover Complete**
+- Interwar Years (SS10) **Switchover In Progress**
 
 During this time, please use the dedicated links to these on the Nota-Set homepage. 
 
@@ -26,6 +26,8 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 1. Transformations & Polynomials (PC12) - Jan/Feb **(Complete)**
 2. Government & Quadratics (SS10 & PC11) - Feb **(Complete)**
 3. 1914-1938 (SS10) - Mar **(In Progress)**
+    * 1914-1918 (SS10) **(Complete)**
+    * 1919-1938 (SS10) **(In Progress)**
 4. Rationals & Radicals (PC11) - Mar/Apr
 5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover)
 6. Cold War (SS10) - May (SS10 Full Switchover)
