@@ -5,6 +5,8 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10 - WWI](wwi.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Non_Compliant-red?logo=adguard)
 
+### [<i class="fa-solid fa-globe"></i> Social Studies 10 - WWI (Switchover)](ss10/wwi.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Non_Compliant-red?logo=adguard)
+
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10 - Interwar Years](int.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Non_Compliant-red?logo=adguard)
 
 ### [<i class="fa-solid fa-circle-xmark"></i> Pre-Calculus 11](pc11.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
