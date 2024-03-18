@@ -1,0 +1,52 @@
+name: Feature Request
+description: Suggest a feature for this project.
+title: "[FEATURE]: "
+labels: ["enhancement"]
+assignees:
+  - HyperionU
+body:
+  - type: markdown
+    attributes:
+      value: "## Thanks for taking the time to fill out this report."
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: feature-pitch
+    attributes:
+      label: The Feature
+      description: Describe the solution you would like. Keep it concise.
+      placeholder: "This is the solution."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Add any context or supporting information about your solution.
+    validations:
+      required: true
+  - type: textarea
+    id: requisites
+    attributes:
+      label: Requirements
+      description: Explain what is required to complete this. (Add a checklist to make it easier.)
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/HyperionU/Nota-Set?tab=coc-ov-file)
+      options:
+        - label: I agree to follow Nota-Set's Code of Conduct
+        - label: I agree to follow Nota-Set's Contribution Guidelines.
+        - label: I am aware that Nota-Set's regulator (Hyperion University Office of Software Maintainers, or Ofsom) can sanction me for failure to follow these guidelines.
+    validations:
+      required: true
+
