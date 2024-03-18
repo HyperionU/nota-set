@@ -2,7 +2,7 @@
 <i class="fa-solid fa-triangle-exclamation"></i>
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
-- WWI (SS10)
+- WWI (SS10) **Switchover Near Complete**
 - Interwar Years (SS10)
 
 During this time, please use the dedicated links to these on the Nota-Set homepage. 
