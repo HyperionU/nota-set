@@ -6,9 +6,9 @@ The interwar years in Canada (1918-1939) were a time of mixed experiences. After
 ---
 
 ## **Lessons**:
-1. [1919-1920 Discontent](Notes/Socials/History/Interwar%20Years/Lesson%201%20(1919-1920%20Discontent).html)
-2. [Roaring Twenties](Notes/Socials/History/Interwar%20Years/Lesson%202%20(Roaring%20Twenties).html)
-3. [Great Depression](Notes/Socials/History/Interwar%20Years/Lesson%203%20(Great%20Depression).html)
+1. [1919-1920 Discontent](unav.md)
+2. [Roaring Twenties](unav.md)
+3. [Great Depression](unav.md)
 4. 1930's Canada
     * [Part I](Notes/Socials/History/Interwar%20Years/Lesson%204%20(1930's%20Canada)/Lesson%204a.html)
     * [Part II](Notes/Socials/History/Interwar%20Years/Lesson%204%20(1930's%20Canada)/Lesson%204b.html)
