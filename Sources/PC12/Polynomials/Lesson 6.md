@@ -88,3 +88,9 @@ For $y = 3x^4 + 2x^3 - 3x^2 - 5$ determine the range.
 * Range: $\{y | y \geq -7, y \in \real \}$
 
 You'll likely find this by graphing. If you decide to continue on this path to Calculus, you learn how to actually calculate this.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%207%20(Graphing%20Polynomials).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

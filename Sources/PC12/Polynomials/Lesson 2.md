@@ -175,3 +175,9 @@ Here's the process:
 * Now, solve for $b$.
     $20 - 2b = 14$
     $-2b = -6, b = 3$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(Factor%20Theorem).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

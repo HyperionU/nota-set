@@ -100,3 +100,9 @@ Let's take our quadratic $x^2 + 8x + 5$.
 * $x^3 = -1$
 * $\sqrt[3]{x^{\not 3}} = \sqrt[3]{-1}$
 * $x = -1$, among others.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%206%20(Characteristics).html) 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
