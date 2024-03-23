@@ -22,6 +22,8 @@ style: |
 
 ---
 
+<!--paginate: true-->
+
 ## What are Factors?
 
 * Numbers or expressions that divide evenly into a dividend. 

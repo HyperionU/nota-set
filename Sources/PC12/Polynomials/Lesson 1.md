@@ -16,6 +16,8 @@ math: mathjax
 
 ---
 
+<!--paginate: true-->
+
 ## Long Division Review
 
 Divide $327 / 12$.

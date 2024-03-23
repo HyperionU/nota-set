@@ -22,6 +22,8 @@ style: |
 
 ---
 
+<!--paginate: true-->
+
 ## Substitution
 
 If $f(x) = 3x^3 + 2x^2 - 4x - 5$, what is the value of $f(2)$?
