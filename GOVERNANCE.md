@@ -7,7 +7,7 @@ This governance explains how the project is run.
 - [Maintainers](#maintainers)
   - [Becoming a Maintainer](#becoming-a-maintainer)
   - [Meetings](#meetings)
-- [CNCF Resources](#cncf-resources)
+- [Resources](#resources)
 - [Code of Conduct Enforcement](#code-of-conduct)
 - [Security Response Team](#security-response-team)
 - [Voting](#voting)
@@ -102,7 +102,7 @@ Maintainer on receipt of a security issue or CoC report.  All current Maintainer
 must be invited to such closed meetings, except for any Maintainer who is
 accused of a CoC violation.
 
-## CNCF Resources
+## Resources
 
 Any Maintainer may suggest a request for
 resources, either in the
