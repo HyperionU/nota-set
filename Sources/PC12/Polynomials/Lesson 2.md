@@ -18,7 +18,7 @@ style: |
 
 ---
 
-# Lesson 1: Substitution and Remainder Theorem
+# Lesson 2: Substitution and Remainder Theorem
 
 ---
 
