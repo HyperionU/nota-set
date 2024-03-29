@@ -1,4 +1,4 @@
-# University of Hyperion Licencing Agreement v1 (MIT Future License)
+# University of Hyperion Licensing Agreement v1 (MIT Future License)
 
 The University of Hyperion, under consent of the Office of Software Maintainers, licences as follows:
 
