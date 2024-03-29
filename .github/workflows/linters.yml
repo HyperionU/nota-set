@@ -33,9 +33,3 @@ jobs:
             env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 VALIDATE_HTML: true
-                CREATE_LOG_FILE: true
-
-        -   name: Upload Artifact
-            uses: actions/upload-artifact@v4
-            with:
-                path: super-linter.log
