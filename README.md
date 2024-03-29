@@ -44,8 +44,9 @@ A series of notes & presentations, provided by Hyperion University
 
 ---
 ## **Status Badges**
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml) 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml)
+[![Run Linters](https://github.com/HyperionU/Nota-Set/actions/workflows/linters.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/linters.yml) 
 ![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
 ![NKMNT Addition](https://img.shields.io/badge/NKMNT-Done-limegreen)
-![NoMD](https://img.shields.io/badge/NoMD-Stage_3-darkred?logo=adguard&logoColor=brightgreen)
+![NoMD](https://img.shields.io/badge/NoMD-Stage_4-red?logo=adguard&logoColor=brightgreen)
