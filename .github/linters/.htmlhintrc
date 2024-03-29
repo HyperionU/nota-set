@@ -17,6 +17,5 @@
     "id-class-value": "dash",
     "id-unique": true,
     "inline-style-disabled": true,
-    "space-tab-mixed-disabled": "tab",
     "spec-char-escape": true 
 }
