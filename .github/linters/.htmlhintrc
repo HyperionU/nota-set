@@ -8,7 +8,6 @@
     "attr-value-double-quotes": true,
     "attr-value-not-empty": true,
     "attr-whitespace": true,
-    "attr-sorted": true,
     "input-requires-label": true,
     "tag-pair": true,
     "tagname-lowercase": true,
