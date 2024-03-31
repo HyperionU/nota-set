@@ -19,51 +19,64 @@ A series of notes & presentations, provided by Hyperion University
 > * PC12
 >     * Transformations
 >     * Polynomials
-> * Calculus 12 (Standard)
-> * Political Studies 12 (Standard)
+<!--Rationals & Radicals (1.3.1 - 1.3.3)-->
 ---
 
 ## **Notes List:**
 * ### Social Studies 10
-    - Government Unit: Lessons 1-6
-    - WWI Unit (1914 - 1918): Lessons 1-6
-    - Interwar Years Unit (1919 - 1938): Lessons 1-6
+    - Unit I: Government, Lessons 1-6
+    - Unit II: WWI (1914 - 1918) Lessons 1-6
+    - Unit III: Interwar Years (1919 - 1938) Lessons 1-6
     - WWII Unit (1939 - 1945): Lessons 1-9 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
     - Early Cold War Unit (1945 - 1968): Lessons 1-6 ![Static Badge](https://img.shields.io/badge/HTML-May-red?logo=adguard&logoColor=brightgreen)
     - Modern Canada Unit (1968 - 1999): Lessons 1-5 ![Static Badge](https://img.shields.io/badge/HTML-May-red?logo=adguard&logoColor=brightgreen)
 * ### Pre-Calculus 11
-    - Quadratics Unit:
+    - Quadratics
         - Unit I: Quadratic Functions, Lessons 1-4 
         - Unit II: Quadratic Equations, Lessons 1-4
         - Unit III: Applications: Lessons 1 & 2
-    - Rational Expressions & Equations Unit: Lessons 1-4 ![Static Badge](https://img.shields.io/badge/HTML-Mar%2FApr-orange?logo=adguard&logoColor=brightgreen)
-        - Unit IVa: Rational Expressions
-        - Unit IVb: Rational Equations
-    - Radicals Unit: Lesson 1-3 ![Static Badge](https://img.shields.io/badge/HTML-Mar%2FApr-orange?logo=adguard&logoColor=brightgreen)
-        - Unit Va: Radical Expressions
-        - Unit Vb: Radical Equations
-    - Trigonometry Unit: Lesson 1-5 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
-        - Unit VIa: Sine & Cosine Law
-        - Unit VIb: Angles in Std. Position & Special Triangles
-        - Unit VIc: Trigonometric Ratios
+    - Functions & Equations
+        - Unit IV: Rational Expressions & Equations, Lessons 1-4
+        - Unit V: Radicals, Lesson 1-3 ![Static Badge](https://img.shields.io/badge/HTML-Mar%2FApr-orange?logo=adguard&logoColor=brightgreen)
+    - Unit VI: Trigonometry, Lesson 1-5 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
 * ### Pre-Calculus 12 (coming soon) 
-    - Transformations Unit
-    - Polynomials Unit
-    - Trigonometry Units ![Static Badge](https://img.shields.io/badge/HTML-Early_Jun-darkred?logo=adguard&logoColor=brightgreen)
-        - Trigonometric Functions & Unit Circle
-        - Graphing Trigonometric Functions
-        - Tigonometric Identities
-    - Exponentials Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
-    - Logarithms Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
-    - Composition of Functions Lesson ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
+    - Transformations & Functions
+        - Unit I: Transformations, Lesson 1-5
+        - Unit II: Polynomials, Lesson 1-7
+    - Trigonometry ![Static Badge](https://img.shields.io/badge/HTML-Early_Jun-darkred?logo=adguard&logoColor=brightgreen)
+        - Unit III: Trigonometric Functions & Unit Circle
+        - Unit IV: Graphing Trigonometric Functions
+        - Unit V: Tigonometric Identities
+    - Exponential, Rational, and Logarithmic Functions & Equations
+        - Unit VI: Exponentials & Rationals ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
+        - Unit VII: Logarithms Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
+    - Unit VIII: Function Operations ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
 * ### Calculus 12 (coming soon)
+    * Section I: Preparation
+        - Unit I: Functions, Models, Equations and Inequalities
+            - Functions & Models
+            - Equations
+            - Non-Linear Inequalities
+            - Trigonometric Identities
+        - Unit II: Limits and Continuity
+            - Forms of Discontinuity
+    * Section II: Differential Calculus
+        - Unit III: The Derivative (w/ Elementary Functions)
+            - Differentiation Rules
+            - Higher Order Derivation
+            - Implicit Differentiation
+        - Unit IV: The Derivative (w/ Transcendental Functions)
+            - Trigonometric (Inverse & Non-Inverse) Differentiation
+            - Exponential & Logarithmic Differentiation
+        - Unit V: Applications of Differential Calculus
+    * Section III: Integral Calculus
 * ### Political Studies (coming soon)
-    - Government Unit
-    - Political Philosophy Units
+    - Unit I: Government
+    - Unit II: Political Philosophy
         - Greek & Enlightenment Philosophers
         - Economic Philosophers
         - Postmodernism & Threats to Liberalism
-    - Public Policy and International Relations
+    - Unit III: Public Policy and International Relations
 
 ---
 ## **Status Badges**
