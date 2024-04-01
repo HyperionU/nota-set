@@ -1,4 +1,4 @@
-# [***Nota-Set***](../index.md)
+# [***Nota-Set***](index.md)
 ## Pre-Calculus 11 - <i class="fa-solid fa-calculator"></i> Trigonometry
 ## **Introduction**
 
@@ -7,10 +7,10 @@ Trigonometry is a branch of mathematics that deals with triangles. It focuses on
 ---
 
 ## **Lessons**:
-1. [Grade 10 Review](../Notes/PC11/Trigonometry/Lesson%201%20(Grade%2010%20Review).html)
-2. [Sine Law](../Notes/PC11/Trigonometry/Lesson%202%20(Sine%20Law).html)
-3. [Cosine Law](../Notes/PC11/Trigonometry/Lesson%203%20(Cosine%20Law).html)
-4. [Angles and Special Triangles](../Notes/PC11/Trigonometry/Lesson%204%20(Angles%20and%20Special%20Triangles).html)
-5. [Trigonometric Ratios](../Notes/PC11/Trigonometry/Lesson%205%20(Trigonometric%20Ratios).html)
+1. [Grade 10 Review](Notes/PC11/Trigonometry/Lesson%201%20(Grade%2010%20Review).html)
+2. [Sine Law](Notes/PC11/Trigonometry/Lesson%202%20(Sine%20Law).html)
+3. [Cosine Law](Notes/PC11/Trigonometry/Lesson%203%20(Cosine%20Law).html)
+4. [Angles and Special Triangles](Notes/PC11/Trigonometry/Lesson%204%20(Angles%20and%20Special%20Triangles).html)
+5. [Trigonometric Ratios](Notes/PC11/Trigonometry/Lesson%205%20(Trigonometric%20Ratios).html)
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
