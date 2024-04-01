@@ -126,3 +126,40 @@ Radians to Degrees:
 *Hope you like spirals!*
 
 * Angles w/ same terminal arm
+* Smallest $+$'ve coterminal angle is the Principal.
+* To find all angles:
+    * $\theta \pm 360n, n \in \mathbb{N}$ or $\theta + 360n, n \in \mathbb{Z}$
+    * $\theta \pm 2\pi n, n \in \mathbb{N}$ or $\theta + 2\pi n, n \in \mathbb{Z}$
+
+---
+
+## Determining Arclength
+
+* Determine the arclength of a circle w/ $r = 3, \theta = 2.1$ (no units means radians.)
+$$
+    \frac{a}{6\pi} = \frac{2.1}{2\pi}
+$$
+
+$$
+    a = 3 \cdot 2.1 = 6.3\text{ m}
+$$
+
+* How about a general solution?
+
+$$
+    \frac{a}{2\pi r} = \frac{\theta}{2\pi}
+$$
+
+$a = r\theta$
+
+---
+
+## Measuring angles
+
+There are 4 ways to measure angles:
+
+1. Revolutions (rev) $1 \text{ rev} = 360^\circ$ or $2\pi$
+2. Degrees ($^\circ$)
+    * mins & sec ($^\circ, ', ''$)
+3. Radians (rad, r, no units)
+4. Gradians (grad), mostly used for construction
