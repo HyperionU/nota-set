@@ -13,7 +13,7 @@ $\newcommand\piq[1][]{\frac{#1\pi}{4}}$
 
 <!--_footer: In partnership with Hyperion University, 2024-->
 
-$\def\pit{\frac{\pi}{3}}$
+$\newcommand\pit[1][]{\frac{#1\pi}{3}}$
 $\def\pis{\frac{\pi}{6}}$
 
 ---
@@ -118,3 +118,22 @@ $\sec(-\piq[5]) = -\sqrt{2}$
 
 Find exact value of $\cos\piq[3] \sin\piq[5] - \sec\pi \csc\pih[3]$
 
+1. $\piq[3] \in \mathfrak{Q}_2, \piq[5] \in \mathfrak{Q}_3$
+2. $\theta_{r} = \piq$
+3. $\cos\piq = \sin\piq = \frac{1}{\sqrt{2}}$
+4. $\pi = (-1,0), \pih[3] = (0, -1)$
+5. $(-\frac{1}{\sqrt{2}})^2 - (-1)^2$
+6. $\frac{1}{2} - \frac{2}{2} = -\frac{1}{2}$
+
+---
+
+## Exact Coordinates of Points
+
+If $P(\theta)$ is at the intersection of the terminal arm and $\in \mathbb{c}_1$, determine exact coordinates of $P(\pit[5])$.
+
+1. $\pit[3] \in \mathfrak{Q}_4$
+2. $(\cos\theta_r, \sin\theta_r)$
+3. $\theta_r = \pit$
+4. $\cos\pit = \frac{1}{2}, \sin\pit = \frac{\sqrt{3}}{2}$
+5. $\text{sign}\pit[5] = (+, -)$
+6. $(\frac{1}{2}, - \frac{\sqrt{3}}{2})$
