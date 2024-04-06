@@ -16,10 +16,11 @@ A series of notes & presentations, provided by Hyperion University
 >     * 1914-1938
 > * PC11
 >     * Quadratics
+>     <!--* Rationals
+>     * Radicals-->
 > * PC12
 >     * Transformations
 >     * Polynomials
-<!--Rationals & Radicals (1.3.1 - 1.3.3)-->
 ---
 
 ## **Notes List:**
@@ -37,7 +38,7 @@ A series of notes & presentations, provided by Hyperion University
         - Unit III: Applications: Lessons 1 & 2
     - Functions & Equations
         - Unit IV: Rational Expressions & Equations, Lessons 1-4
-        - Unit V: Radicals, Lesson 1-3 ![Static Badge](https://img.shields.io/badge/HTML-Mar%2FApr-orange?logo=adguard&logoColor=brightgreen)
+        - Unit V: Radicals, Lesson 1-3
     - Unit VI: Trigonometry, Lesson 1-5 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
 * ### Pre-Calculus 12 (coming soon) 
     - Transformations & Functions
@@ -85,4 +86,4 @@ A series of notes & presentations, provided by Hyperion University
 ![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
 ![NKMNT Addition](https://img.shields.io/badge/NKMNT-Done-limegreen)
-![NoMD](https://img.shields.io/badge/NoMD-Stage_4-red?logo=adguard&logoColor=brightgreen)
+![NoMD](https://img.shields.io/badge/NoMD-Stage_5-yellow?logo=adguard&logoColor=brightgreen)

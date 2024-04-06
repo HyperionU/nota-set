@@ -2,7 +2,6 @@
 <i class="fa-solid fa-triangle-exclamation"></i>
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
-- Radicals (PC11) **Switchover In Progress**
 - WWII (SS10)
 - Trigonometry (PC11)
 - Pre-Calculus 11
@@ -28,8 +27,7 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 1. Transformations & Polynomials (PC12) - Jan/Feb **(Complete)**
 2. Government & Quadratics (SS10 & PC11) - Feb **(Complete)**
 3. 1914-1938 (SS10) - Mar **(Complete)**
-4. Rationals & Radicals (PC11) - Mar/Apr **(In Progress)**
-    * Radicals (PC11) **(In Progress)**
+4. Rationals & Radicals (PC11) - Mar/Apr **(Complete)**
 5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover)
     * WWII (SS10)
     * Trigonometry (PC11)
