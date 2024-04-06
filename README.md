@@ -48,7 +48,7 @@ A series of notes & presentations, provided by Hyperion University
         - Unit III: Trigonometric Functions & Unit Circle
         - Unit IV: Graphing Trigonometric Functions
         - Unit V: Tigonometric Identities
-    - Exponential, Rational, and Logarithmic Functions & Equations
+    - Non-Trigonometric Transcendentals
         - Unit VI: Exponentials & Rationals ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
         - Unit VII: Logarithms Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
     - Unit VIII: Function Operations ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
