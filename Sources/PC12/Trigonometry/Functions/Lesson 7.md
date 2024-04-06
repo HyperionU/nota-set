@@ -77,4 +77,8 @@ $\cos x = 1, -\frac{2}{3}$
     * $\cos x = -\frac{2}{3}$: $x_r = 0.8411, x_2 = 2.30, x_3 = -2.30$   
     * $x = 0, \pm 2.30$
 
+---
 
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%208%20\(General%20Solutions\)\).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

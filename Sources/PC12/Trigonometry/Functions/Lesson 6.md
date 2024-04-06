@@ -84,3 +84,8 @@ Solve $\sin x \cos x - 3 \cos x = 0, 0 \leq x < 2\pi$
 3. $x = \frac{\pi}{2}, \frac{3\pi}{2}, \sin x = 3$
 4. $x = \frac{\pi}{2}, \frac{3\pi}{2}$, since $\sin x \not\in (-\infty, -1) \bigcup (1, \infty)$
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%207%20(Change%20of%20Domain).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

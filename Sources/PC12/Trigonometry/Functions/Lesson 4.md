@@ -137,3 +137,9 @@ If $P(\theta)$ is at the intersection of the terminal arm and $\in \mathbb{c}_1$
 4. $\cos\pit = \frac{1}{2}, \sin\pit = \frac{\sqrt{3}}{2}$
 5. $\text{sign}\pit[5] = (+, -)$
 6. $(\frac{1}{2}, - \frac{\sqrt{3}}{2})$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(Simple%20Trig%20Equations).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

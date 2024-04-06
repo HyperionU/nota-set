@@ -136,3 +136,9 @@ Find $\theta_r$ for $\frac{9\pi}{10}$ and $\frac{31\pi}{3}$.
     * $\theta_r = \frac{31}{3}\pi$
     * $\theta_r = \not 5\frac{\pi}{3}$
     * $\theta_r = \frac{\pi}{3}$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Special%20Angles).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

@@ -97,4 +97,8 @@ $1 = 1 \therefore P \in \mathbb{c}_r$
 * $P_1 = (\frac{3}{\sqrt{13}}, \frac{2}{\sqrt{13}})$, $P_2 = (-\frac{3}{\sqrt{13}}, -\frac{3}{\sqrt{13}})$.
 * *Wait, this looks familiar...*
 
+---
 
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(Trigonometric%20Ratios).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
