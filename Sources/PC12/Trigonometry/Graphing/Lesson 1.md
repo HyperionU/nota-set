@@ -104,4 +104,8 @@ When I was explaining $\beta$, I called it the period factor.
 
 The Period is actually $\frac{2\pi}{\beta}$ or $\frac{360^\circ}{\beta}$.
 
+---
 
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Graphing%20Trigonometric%20Functions).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

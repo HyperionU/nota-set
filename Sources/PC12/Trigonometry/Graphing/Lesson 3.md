@@ -57,3 +57,8 @@ Graph $\tan (x + \frac{\pi}{2}) - 1$
 * $\delta$: $\downarrow$ 1
 * Domain: $\{x|x\not = \pi n, n \in \mathbb{Z}, x \in \mathbb{R}\}$
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Applications).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
