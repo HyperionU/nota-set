@@ -12,7 +12,7 @@ math: mathjax
 
 ---
 
-# Lesson 2: Graphing Functions
+# Lesson 2: Graphing Trigonometry
 
 ---
 
