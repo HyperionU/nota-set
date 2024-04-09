@@ -91,3 +91,9 @@ Simplify $\sin(\frac{3\pi}{2} - x)$
 $\sin \frac{3\pi}{2} \cos x - \cos \frac{3\pi}{2} \sin x$
 $-1 (\cos x) - 0 (\sin x)$
 $-\cos x$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Double%20Angle).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

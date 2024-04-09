@@ -140,3 +140,8 @@ Determine the restrictions for the following:
     * $\frac{1}{\sin x} - 2 / 2 - 3 \cos x$
     * $\sin x \not = 0, \cos x \not = \frac{2}{3}$
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Pythagorean).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
