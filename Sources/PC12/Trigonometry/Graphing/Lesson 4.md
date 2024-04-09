@@ -87,3 +87,8 @@ High tide is $14\text{m}$ at 6 hours, and the next low tide is $2\text{m}$ at 12
 3. There's a way to solve this algebraically, but $t = 3.19 \text{hrs}$
 4. $11.44\text{hrs}$
 
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../Identities/Lesson%201%20(Definitions).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
