@@ -2,10 +2,11 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| <0.9.1  | :x:                |
+| Version | Supported              |
+| ------- | ---------------------- |
+| 1.2.1+  | :ballot_box_with_check:|
+| 1.1.1   | :ballot_box_with_check:|
+| <1.0.x  | :x:                    |
 
 ## Reporting a Vulnerability
 
