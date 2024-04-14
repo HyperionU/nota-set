@@ -18,6 +18,8 @@ style: |
 
 ---
 
+<!--paginate: true-->
+
 # Lesson 1: Solving Exponential Equations
 
 ---
@@ -96,3 +98,84 @@ When Solving:
 ## Solving Exponentials
 
 2. $27^{x + 3} = (\frac{1}{9})^{2x - 5}$
+    * $3^{3(x + 3)} = 3^{-2(2x - 5)}$
+    * $3^{3x + 9} = 3^{10 - 4x}$
+    * $3x + 9 = 10 - 4x$
+    * $7x = 1, x = \frac{1}{7}$
+
+---
+
+## Solving Exponentials, cont.
+
+3. $\frac{8^{x + 6}}{16^{2x - 1}} = 32^{3x - 4}$
+    * $2^{3(x + 6)} / 2^{4(2x - 1)} = 2^{5(3x - 4)}$
+    * $2^{3x + 18} / 2^{8x - 4} = 2^{15x - 20}$
+    * $(3x + 18) - (8x - 4) = 15x - 20$
+    * $22 - 5x = 15x - 20$
+    * $20x = 42, x = \frac{21}{10}$
+
+---
+
+## Solving, cont.
+
+<div class="columns">
+<span>
+
+4. $4^{2x - 1} = 1$
+    * Identity Law: $x^0 = 1$
+    * $4^{2x - 1} = 4^0$
+    * $2x - 1 = 0$
+    * $2x = 1, x = \frac{1}{2}$
+
+</span>
+<span>
+
+5. $2^{x + 4} - 3 = 1$
+    * Isolate the exponential
+    * $2^{x + 4} = 4$
+    * $2^{x + 4} = 2^2$
+    * $x + 4 = 2, x = -2$
+
+</span>
+</div>
+
+---
+
+## Solving, cont.
+
+6. $5(9)^{x + 2} = 15$
+    * Isolate the exponential
+    * $9^{x + 2} = 3$
+    * $3^{2(x + 2)} = 3^1$
+    * $2x + 4 = 1$
+    * $2x = -3, x = \frac{-3}{2}$
+
+---
+
+## Simplifying
+
+<div class = "columns">
+
+<span>
+Solving is very different from simplifying. The big difference is that solving has an = sign. 
+Make sure to check whether to simplify or solve.
+</span>
+
+<span>
+
+$$
+    \frac{3^{x + 4} \cdot 27^{2x + 1}}{9^{3x - 4}}
+$$
+
+$$
+    \frac{3^{x + 4} \cdot 3^{3(2x + 1)}}{3^{2(3x - 4)}}
+$$
+
+$3^{x + 4} \times 3^{6x + 3} / 3^{6x - 8}$
+
+$3^{7x + 7} / 3^{6x - 8}$
+
+$3^{(7x + 7) - (6x - 8)} = 3^{x + 15}$
+
+</span>
+</div>
