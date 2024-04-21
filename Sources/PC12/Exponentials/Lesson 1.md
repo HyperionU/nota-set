@@ -179,3 +179,9 @@ $3^{(7x + 7) - (6x - 8)} = 3^{x + 15}$
 
 </span>
 </div>
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Graphing%20Exponentials).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

@@ -114,3 +114,9 @@ Try sketching a graph of these:
 3. Determine $a$
   * Pick a point on the function
   * Plug in values.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%204%20(Discontinuities).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

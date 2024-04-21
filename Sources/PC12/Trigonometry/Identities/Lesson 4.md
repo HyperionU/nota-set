@@ -165,3 +165,8 @@ $$
     \end{array}
 $$
 
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../../Exponentials/Lesson%201%20(Solving%20Exponentials).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
