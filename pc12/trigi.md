@@ -2,7 +2,7 @@
 ## Pre-Calculus 12 - <i class="fa-solid fa-calculator"></i> Trigonometric Identities
 ## **Introduction**
 
-**Trigonometric Identities** are equations involving trigonometric functions that are true for all values of the variables. Examples include the Pythagorean identities (e.g., $sin^2(x) + cos^2(x) = 1$) and angle-sum and angle-difference identities. These identities are crucial for simplifying expressions and solving trigonometric equations.
+**Trigonometric Identities** are equations involving trigonometric functions that are true for all values of the variables. Examples include the Pythagorean identities (e.g., $\sin^2(x) + \cos^2(x) = 1$) and angle-sum and angle-difference identities. These identities are crucial for simplifying expressions and solving trigonometric equations.
 
 ---
 
