@@ -1,21 +1,20 @@
 # ***Nota-Set***
 A series of notes & presentations, provided by Hyperion University
 
-## New for v1.3.0 Eclipse
+## New for v1.4.1
 
 ### Added
-* Trigonometric Functions Notes
-* Graphing Trigonometric Functions Notes
-* Trigonometric Identities Notes
-* Linting Checks
+* Exponentials and Rationals Notes
 
 ### NoMD
 > [!IMPORTANT]
 > Not all of Nota-Set has been switched away from Markdown. Check the badge next to the specific notes for when they switch over.
-> These have been switched over as of v1.3.0 Eclipse:
+> These have been switched over as of v1.4.1:
 > * SS10
 >     * Government
 >     * 1914-1938
+>     <!--* 1939-1945-->
+>     <!--* 1946-1999-->
 > * PC11
 >     * Quadratics
 >     * Rationals
@@ -24,6 +23,10 @@ A series of notes & presentations, provided by Hyperion University
 > * PC12
 >     * Transformations
 >     * Polynomials
+>     <!--* Trigonometry-->
+>     <!--* Exponentials & Rationals-->
+>     <!--* Logarithms-->
+>     <!--* Function Operations-->
 ---
 
 ## **Notes List:**
