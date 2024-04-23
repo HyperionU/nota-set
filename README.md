@@ -44,18 +44,18 @@ A series of notes & presentations, provided by Hyperion University
         - Unit III: Applications: Lessons 1 & 2
     - Functions & Equations
         - Unit IV: Rational Expressions & Equations, Lessons 1-4
-        - Unit V: Radicals, Lesson 1-3
-    - Unit VI: Trigonometry, Lesson 1-5 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
+        - Unit V: Radicals, Lessons 1-3
+    - Unit VI: Trigonometry, Lessons 1-5 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
 * ### Pre-Calculus 12 (coming soon) 
     - Transformations & Functions
-        - Unit I: Transformations, Lesson 1-5
-        - Unit II: Polynomials, Lesson 1-7
+        - Unit I: Transformations, Lessons 1-5
+        - Unit II: Polynomials, Lessons 1-7
     - Trigonometry ![Static Badge](https://img.shields.io/badge/HTML-Early_Jun-darkred?logo=adguard&logoColor=brightgreen)
-        - Unit III: Trigonometric Functions & Unit Circle
-        - Unit IV: Graphing Trigonometric Functions
-        - Unit V: Tigonometric Identities
+        - Unit III: Trigonometric Functions & Unit Circle, Lessons 1-8
+        - Unit IV: Graphing Trigonometric Functions, Lessons 1-4
+        - Unit V: Tigonometric Identities, Lessons 1-4
     - Non-Trigonometric Transcendentals
-        - Unit VI: Exponentials & Rationals ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
+        - Unit VI: Exponentials & Rationals, Lessons 1-4 ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
         - Unit VII: Logarithms Unit ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
     - Unit VIII: Function Operations ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
 * ### Calculus 12 (coming soon)
