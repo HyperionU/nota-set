@@ -3,7 +3,6 @@
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
 - WWII (SS10)
-- Trigonometry (PC11)
 - Pre-Calculus 11
 
 During this time, please use the dedicated links to these on the Nota-Set homepage. 
@@ -28,9 +27,9 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 2. Government & Quadratics (SS10 & PC11) - Feb **(Complete)**
 3. 1914-1938 (SS10) - Mar **(Complete)**
 4. Rationals & Radicals (PC11) - Mar/Apr **(Complete)**
-5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover)
+5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover) **(In Progress)**
     * WWII (SS10)
-    * Trigonometry (PC11)
+    * Trigonometry (PC11) **(Complete)**
     * Pre-Calculus 11 (Finalisation)
 6. Cold War (SS10) - May (SS10 Full Switchover)
 7. Trigonometry (PC12) - Early Jun
