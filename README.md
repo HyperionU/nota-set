@@ -20,6 +20,7 @@ A series of notes & presentations, provided by Hyperion University
 >     * Rationals
 >     * Radicals
 >     <!--* Trigonometry-->
+>     <!--* PC11 Full-->
 > * PC12
 >     * Transformations
 >     * Polynomials
