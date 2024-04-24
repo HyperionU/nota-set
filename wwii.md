@@ -13,8 +13,8 @@ In Canada, World War II is remembered for the bravery and sacrifices of Canadian
 
 ## **Lessons**:
 
-1. [Causes of WWII](../Notes/Socials/History/WWII/Lesson%201%20(Causes%20of%20WWII).html)
-2. [The Home Front](../Notes/Socials/History/WWII/Lesson%202%20(The%20Home%20Front).html)
+1. [Causes of WWII](unav.md)
+2. [The Home Front](unav.md)
 3. [The War In Europe, Part I](../Notes/Socials/History/WWII/Lesson%203%20(The%20War%20in%20Europe%2C%20Part%20I).html)
 4. [The War In The Air](../Notes/Socials/History/WWII/Lesson%204%20(The%20War%20in%20The%20Air).html)
 5. [The War In The Sea](../Notes/Socials/History/WWII/Lesson%205%20(The%20War%20in%20The%20Sea).html)
