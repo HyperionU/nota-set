@@ -2,11 +2,11 @@
 
 ## Supported Versions
 
-| Version | Supported              |
-| ------- | ---------------------- |
-| 1.2.1+  | :ballot_box_with_check:|
-| 1.1.1   | :ballot_box_with_check:|
-| <1.0.x  | :x:                    |
+| Version               | Supported              |
+| --------------------- | ---------------------- |
+| 1.4.1+                | :ballot_box_with_check:|
+| 1.2.1-1.3.0 Eclipse   | :ballot_box_with_check:|
+| <1.0.1                | :x:                    |
 
 ## Reporting a Vulnerability
 
