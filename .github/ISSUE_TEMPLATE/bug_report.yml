@@ -31,7 +31,8 @@ body:
       label: Version
       description: What version of Nota-Set are you running?
       options:
-        - 1.0.x (Default)
+        - 1.x.1 (Default)
+        - 1.3.0 Eclipse to 1.0.x (LTS)
         - <0.9.1 (EOS)
       default: 0
     validations:
