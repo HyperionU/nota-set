@@ -13,14 +13,14 @@ A series of notes & presentations, provided by Hyperion University
 > * SS10
 >     * Government
 >     * 1914-1938
->     <!--* 1939-1945-->
+>     <!--* ^1939-1945-->
 >     <!--* 1946-1999-->
 > * PC11
 >     * Quadratics
 >     * Rationals
 >     * Radicals
->     <!--* Trigonometry-->
->     <!--* PC11 Full-->
+>     <!--* ^Trigonometry-->
+>     <!--* ^PC11 Full-->
 > * PC12
 >     * Transformations
 >     * Polynomials
@@ -35,7 +35,7 @@ A series of notes & presentations, provided by Hyperion University
     - Unit I: Government, Lessons 1-6
     - Unit II: WWI (1914 - 1918) Lessons 1-6
     - Unit III: Interwar Years (1919 - 1938) Lessons 1-6
-    - WWII Unit (1939 - 1945): Lessons 1-9 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
+    - WWII Unit (1939 - 1945): Lessons 1-9
     - Early Cold War Unit (1945 - 1968): Lessons 1-6 ![Static Badge](https://img.shields.io/badge/HTML-May-red?logo=adguard&logoColor=brightgreen)
     - Modern Canada Unit (1968 - 1999): Lessons 1-5 ![Static Badge](https://img.shields.io/badge/HTML-May-red?logo=adguard&logoColor=brightgreen)
 * ### Pre-Calculus 11
@@ -46,7 +46,7 @@ A series of notes & presentations, provided by Hyperion University
     - Functions & Equations
         - Unit IV: Rational Expressions & Equations, Lessons 1-4
         - Unit V: Radicals, Lessons 1-3
-    - Unit VI: Trigonometry, Lessons 1-5 ![Static Badge](https://img.shields.io/badge/HTML-Apr%2FMay-%23ff4d00?logo=adguard&logoColor=brightgreen)
+    - Unit VI: Trigonometry, Lessons 1-5
 * ### Pre-Calculus 12 (coming soon) 
     - Transformations & Functions
         - Unit I: Transformations, Lessons 1-5
@@ -74,9 +74,11 @@ A series of notes & presentations, provided by Hyperion University
             - Higher Order Derivation
             - Implicit Differentiation
         - Unit IV: The Derivative (w/ Transcendental Functions)
-            - Trigonometric (Inverse & Non-Inverse) Differentiation
+            - Trigonometric Differentiation
             - Exponential & Logarithmic Differentiation
-        - Unit V: Applications of Differential Calculus
+        - Unit V: Extreme Values and Curve Sketching
+            - Even / Odd Functions
+        - Unit VI: Applications of Differential Calculus
     * Section III: Integral Calculus
 * ### Political Studies (coming soon)
     - Unit I: Government
@@ -93,4 +95,4 @@ A series of notes & presentations, provided by Hyperion University
 ![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
 ![NKMNT Addition](https://img.shields.io/badge/NKMNT-Done-limegreen)
-![NoMD](https://img.shields.io/badge/NoMD-Stage_5-yellow?logo=adguard&logoColor=brightgreen)
+![NoMD](https://img.shields.io/badge/NoMD-Stage_6-yellow?logo=adguard&logoColor=brightgreen)
