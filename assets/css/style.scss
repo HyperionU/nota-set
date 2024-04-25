@@ -6,15 +6,15 @@
 
 :root {
   /* "Mint": new text color for NKNMT neo */
-  --text: #00c49a;
+  --text: oklch(72.97% 0.144 170.2);
   /* "Oxford Blue": new bg color for NKNMT neo */
-  --background: #030027;
+  --background: oklch(12.96% 0.082 272.77);
   /* "Space Cadet": new primary color for NKMNT neo */
-  --primary: #151E3F;
+  --primary: oklch(24.66% 0.064 269.76);
   /* "Cardinal": new secondary color for NKNMT neo */
-  --secondary: #c33248;
+  --secondary: oklch(54.62% 0.181 17.4);
   /* "Naples Yellow": new accent color for NKNMT neo */
-  --accent: #f8e16c;
+  --accent: oklch(90.61% 0.139 98.34);
 }
 
 body {
