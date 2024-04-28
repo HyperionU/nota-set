@@ -20,7 +20,7 @@ style: |
 
 <!--paginate: true-->
 
-# Lesson 3: Laws of Logs I
+# Lesson 4: Laws of Logs II
 
 ---
 
