@@ -2,11 +2,12 @@
 <i class="fa-solid fa-triangle-exclamation"></i>
 If you are seeing this, it probably means that the section you want is currently or has switched over. As a result, many of the links have been adjusted. 
 
-For these sections:
-- WWI (SS10)
-- Interwar Years (SS10)
+- WWII (SS10)
+- Pre-Calculus 11
 
-Please use the dedicated links to these on the Nota-Set homepage.
+During this time, please use the dedicated links to these on the Nota-Set homepage. 
+
+We apologise for the inconvenience, but this work is a necessary part of the process of switching away from Markdown to HTML.
 
 ## Introduction
 Nota-Set is Changing, and the countdown has begun. Throughout, Nota-Set is switching from Markdown to HTML for its online connections by June 2024. Nota-Set has changed dramatically in the past few years, with its most recent incarnation arriving in June 2023. Change can be confusing, and sometimes scary, but NoMD is here to help.
@@ -23,10 +24,13 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 - Calculus 12 - Standard
 - Political Studies - Standard
 1. Transformations & Polynomials (PC12) - Jan/Feb **(Complete)**
-2. Government & Quadratics (SS10 & PC11) - Feb **(In Progress)**
-3. 1914-1938 (SS10) - Mar
-4. Rationals & Radicals (PC11) - Mar/Apr
-5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover)
+2. Government & Quadratics (SS10 & PC11) - Feb **(Complete)**
+3. 1914-1938 (SS10) - Mar **(Complete)**
+4. Rationals & Radicals (PC11) - Mar/Apr **(Complete)**
+5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover) **(In Progress)**
+    * WWII (SS10)
+    * Trigonometry (PC11) **(Complete)**
+    * Pre-Calculus 11 (Finalisation)
 6. Cold War (SS10) - May (SS10 Full Switchover)
 7. Trigonometry (PC12) - Early Jun
 8. Exponentials & Logarithms (PC12) - Late Jun (PC12 Full Switchover)
