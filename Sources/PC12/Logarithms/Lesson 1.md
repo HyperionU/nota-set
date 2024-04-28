@@ -84,3 +84,8 @@ $$
     y = \log_b x, b > 0, b \neq 1, x > 0
 $$
 
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Intro%20to%20Logarithms).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

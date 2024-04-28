@@ -117,3 +117,9 @@ If $a = \log_3 4$ and $b = \log_5 49$, express the following in terms of a and b
 * $\log_5 7$
     * $\log_5 49^\frac{1}{2}$
     * $\frac{1}{2} \log_5 49 = \frac{b}{2}$
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%205%20(Logarithmic%20Equations).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">

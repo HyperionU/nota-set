@@ -152,3 +152,9 @@ Another example is the pH scale.
 * $5.2 - 2.3 = 2.9$
 * $A = 10^{2.9}$
 * $A \approx 794\times$ more acidic.
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%203%20(Law%20of%20Logs%20I).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
