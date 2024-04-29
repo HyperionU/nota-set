@@ -78,3 +78,9 @@ $f(x) = x^2 + x - 6, g(x) = 2x + 6$, determine $h(x) = (f/g)(x)$.
 |--------|--------|--------|--------|
 | Domain | $x \in \mathbb{R}$ | $x \in \mathbb{R}$ | $x \neq -3$ |
 | Range  | $y \geq -\frac{25}{4}$ | $y \in \mathbb{R}$ | $y \neq -\frac{5}{2}$ |
+
+---
+
+# [Next Lesson <i class="fa-solid fa-circle-arrow-right"></i>](Lesson%202%20(Composition%20of%20Functions).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
