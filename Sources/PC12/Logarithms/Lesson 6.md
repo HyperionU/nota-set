@@ -211,3 +211,8 @@ The amount of visible light decreases by 5% / metre a diver descends below the s
 </span>
 </div>
 
+---
+
+# [Next Unit <i class="fa-solid fa-diagram-next"></i>](../Operations/Lesson%201%20(Function%20Operations).html)
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
