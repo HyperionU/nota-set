@@ -12,15 +12,14 @@ A series of notes & presentations, provided by Hyperion University
 > These have been switched over as of v1.4.1:
 > * SS10
 >     * Government
->     * 1914-1938
->     <!--* ^1939-1945-->
+>     * 1914-1945
 >     <!--* 1946-1999-->
 > * PC11
 >     * Quadratics
 >     * Rationals
 >     * Radicals
->     <!--* ^Trigonometry-->
->     <!--* ^PC11 Full-->
+>     * Trigonometry
+>     * PC11 Full
 > * PC12
 >     * Transformations
 >     * Polynomials
