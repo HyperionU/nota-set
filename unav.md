@@ -28,7 +28,7 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 3. 1914-1938 (SS10) - Mar **(Complete)**
 4. Rationals & Radicals (PC11) - Mar/Apr **(Complete)**
 5. WWII & Trigonometry (SS10 & PC11) - Apr/May (PC11 Full Switchover) **(Complete)**
-6. Cold War (SS10) - May (SS10 Full Switchover) **(In Progress)**
+6. Cold War (SS10) - May (SS10 Full Switchover) **(1 / 3: In Progress)**
 7. Trigonometry (PC12) - Early Jun
 8. Exponentials & Logarithms (PC12) - Late Jun (PC12 Full Switchover)
 

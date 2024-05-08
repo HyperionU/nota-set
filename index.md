@@ -3,11 +3,7 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 ## **Notes List:**
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10](ss10.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
-### [<i class="fa-solid fa-globe"></i> Social Studies 10 (Early Cold War)](cold.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
-
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10 (Modern Canada)](can.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
-
-### [<i class="fa-solid fa-globe"></i> Social Studies 10 (Early Cold War Switchover)](/ss10/cold.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10 (Modern Canada Switchover)](/ss10/can.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
@@ -15,6 +11,6 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 
 ### [<i class="fa-solid fa-wave-square"></i> Pre-Calculus 12](pc12.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
-<!--### [<i class="fa-solid fa-infinity"></i> Calculus 12](calc12.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Standard-limegreen?logo=adguard)-->
+<!--### [<i class="fa-solid fa-infinity"></i> Calculus 12](calc12.html)-->
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
