@@ -12,7 +12,8 @@ A series of notes & presentations, provided by Hyperion University
 > These have been switched over as of v1.5.1:
 > * SS10
 >     * Government
->     * 1914-1945<!--1999-->
+>     * 1914-1999
+>     * SS10 Full
 > * PC11
 >     * Quadratics
 >     * Rationals
@@ -35,7 +36,7 @@ A series of notes & presentations, provided by Hyperion University
     - Unit III: Interwar Years (1919 - 1938) Lessons 1-6
     - Unit IV: WWII (1939 - 1945) Lessons 1-9
     - Unit V: Early Cold War (1945 - 1968) Lessons 1-6
-    - Unit VI: Modern Canada (1968 - 1999) Lessons 1-5 ![Static Badge](https://img.shields.io/badge/HTML-May-red?logo=adguard&logoColor=brightgreen)
+    - Unit VI: Modern Canada (1968 - 1999) Lessons 1-5
 * ### Pre-Calculus 11
     - Quadratics
         - Unit I: Quadratic Functions, Lessons 1-4 
