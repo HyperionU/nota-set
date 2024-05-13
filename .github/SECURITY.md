@@ -4,9 +4,9 @@
 
 | Version               | Supported              |
 | --------------------- | ---------------------- |
-| 1.4.1+                | :ballot_box_with_check:|
-| 1.2.1-1.3.0 Eclipse   | :ballot_box_with_check:|
-| <1.0.1                | :x:                    |
+| 1.5.1+                | ✔️                     |
+| 1.3.0 Eclipse - 1.4.1 | ⚠️                     |
+| <1.2.1                | ❌                     |
 
 ## Reporting a Vulnerability
 
