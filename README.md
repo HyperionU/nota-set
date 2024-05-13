@@ -103,4 +103,4 @@ A series of notes & presentations, provided by Hyperion University
 ![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
 ![NKMNT Addition](https://img.shields.io/badge/NKMNT-Done-limegreen)
-![NoMD](https://img.shields.io/badge/NoMD-Stage_6-yellow?logo=adguard&logoColor=brightgreen)
+![NoMD](https://img.shields.io/badge/NoMD-Stage_7-green?logo=adguard&logoColor=brightgreen)
