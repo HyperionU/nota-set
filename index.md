@@ -3,8 +3,6 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 ## **Notes List:**
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10](ss10.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
-### [<i class="fa-solid fa-globe"></i> Social Studies 10 (Modern Canada)](can.md) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
-
 ### [<i class="fa-solid fa-globe"></i> Social Studies 10 (Modern Canada Switchover)](/ss10/can.html) ![Static Badge](https://img.shields.io/badge/NoMD_ZM_Compliance-Partial_Compliant-yellow?logo=adguard)
 
 ### [<i class="fa-solid fa-circle-xmark"></i> Pre-Calculus 11](pc11.html)
