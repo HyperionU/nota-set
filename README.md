@@ -84,6 +84,7 @@ A series of notes & presentations, provided by Hyperion University
             - Asymptotes (Vertical, Horizontal & Oblique)
         - Unit VI: Applications of Differential Calculus
             - Kinematics (Distance, Speed & Acceleration)
+            - Related Rates
             - Newton's Method (Roots of Polynomials)
     * Section III: Integral Calculus
         - Unit VII: Integrals and Integration Methods
@@ -94,7 +95,33 @@ A series of notes & presentations, provided by Hyperion University
         - Greek & Enlightenment Philosophers
         - Economic Philosophers
         - Postmodernism & Threats to Liberalism
-    - Unit III: Public Policy and International Relations
+    - Unit III: Public Policy and International Relations 
+* ### Physics 11 (coming soon)
+    - Unit I: Kinematics
+        - Vector and Scalar Quantities
+        - Uniform Motion (a = 0)
+        - Accelerated Motion (a ≠ 0)
+        - Freefall
+        - Projectiles 
+    - Unit II: Dynamics
+        - Forces and Freebody Diagrams
+        - Force of Gravity
+        - Force of Friction
+        - Force of Springs
+        - Force of Tension
+        - Dynamic Systems
+    - Unit III: Energy
+        - Work
+        - Mechanical Energy
+        - Conservation of Mechanical Energy
+        - Heat
+        - Work (friction)
+        - Power and Efficiency
+    - Unit IV: Circuits
+        - Series Circuits
+        - Parallel Circuits
+        - Mixed Circuits
+    - Unit V: Waves
 
 ---
 ## **Status Badges**
