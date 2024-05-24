@@ -85,6 +85,8 @@ A series of notes & presentations, provided by Hyperion University
         - Unit VI: Applications of Differential Calculus
             - Kinematics (Distance, Speed & Acceleration)
             - Related Rates
+            - Economics & Margins
+            - Exponential Growth and Decay
             - Newton's Method (Roots of Polynomials)
     * Section III: Integral Calculus
         - Unit VII: Integrals and Integration Methods
