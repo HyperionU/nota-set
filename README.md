@@ -23,7 +23,7 @@ A series of notes & presentations, provided by Hyperion University
 > * PC12
 >     * Transformations
 >     * Polynomials
->     <!--* Trigonometry-->
+>     * Trigonometry
 >     <!--* Exponentials & Rationals-->
 >     <!--* Logarithms-->
 >     <!--* Function Operations-->
@@ -50,7 +50,7 @@ A series of notes & presentations, provided by Hyperion University
     - Transformations & Functions
         - Unit I: Transformations, Lessons 1-5
         - Unit II: Polynomials, Lessons 1-7
-    - Trigonometry ![Static Badge](https://img.shields.io/badge/HTML-Early_Jun-darkred?logo=adguard&logoColor=brightgreen)
+    - Trigonometry
         - Unit III: Trigonometric Functions & Unit Circle, Lessons 1-8
         - Unit IV: Graphing Trigonometric Functions, Lessons 1-4
         - Unit V: Tigonometric Identities, Lessons 1-4
@@ -130,4 +130,4 @@ A series of notes & presentations, provided by Hyperion University
 ![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
 ![NKMNT Addition](https://img.shields.io/badge/NKMNT-Done-limegreen)
-![NoMD](https://img.shields.io/badge/NoMD-Stage_7-green?logo=adguard&logoColor=brightgreen)
+![NoMD](https://img.shields.io/badge/NoMD-Stage_8-green?logo=adguard&logoColor=brightgreen)
