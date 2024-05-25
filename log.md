@@ -8,8 +8,8 @@
 
 ## **Lessons**:
 
-1. [Graphing](unav.md)
-2. [Intro to Logs](unav.md)
+1. [Graphing](Notes/PC12/Logarithms/Lesson%201%20(Graphing).html)
+2. [Intro to Logs](Notes/PC12/Logarithms/Lesson%202%20(Intro%20to%20Logarithms).html)
 3. [Law of Logs I](Notes/PC12/Logarithms/Lesson%203%20(Law%20of%20Logs%20I).html)
 4. [Law of Logs II](Notes/PC12/Logarithms/Lesson%204%20(Law%20of%20Logs%20II).html)
 5. [Logarithmic Equations](Notes/PC12/Logarithms/Lesson%205%20(Logarithmic%20Equations).html)
