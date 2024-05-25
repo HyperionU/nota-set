@@ -27,7 +27,7 @@ Pre-Calculus 12 would be the first to switch over to HTML, with Calculus getting
 5. WWII & Trigonometry (SS10 & PC11) **(Complete)**
 6. Cold War (SS10) **(Complete)**
 7. [Trigonometric Functions](pc12/trigf.html), [Graphing](pc12/graph.html) and [Trigonometric Identities](pc12/trigi.html) (PC12) **(Complete)**
-8. [Exponentials and Rationals](pc12/exp.html), [Logarithms](pc12/log.html) and [Function Operations](pc12/comp.md) (PC12) **(In Progress)**
+8. [Exponentials and Rationals](pc12/exp.html), [Logarithms](pc12/log.html) and [Function Operations](pc12/comp.html) (PC12) **(In Progress)**
 9. Landing Page Switchover
 
 ## How Conversion Works
