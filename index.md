@@ -5,7 +5,7 @@ A series of notes & presentations, provided by [<i class="fa-solid fa-circle-nod
 
 ### [<i class="fa-solid fa-circle-xmark"></i> Pre-Calculus 11](pc11.html)
 
-### [<i class="fa-solid fa-wave-square"></i> Pre-Calculus 12](unav.md)
+### [<i class="fa-solid fa-wave-square"></i> Pre-Calculus 12](pc12.html)
 
 <!--### [<i class="fa-solid fa-infinity"></i> Calculus 12](calc12.html)-->
 
