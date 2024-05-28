@@ -6,29 +6,6 @@ A series of notes & presentations, provided by Hyperion University
 ### Added
 * Logarithms & Function Operations Notes
 
-### NoMD
-> [!IMPORTANT]
-> Not all of Nota-Set has been switched away from Markdown. Check the badge next to the specific notes for when they switch over.
-> These have been switched over as of v1.5.1:
-> * SS10
->     * Government
->     * 1914-1999
->     * SS10 Full
-> * PC11
->     * Quadratics
->     * Rationals
->     * Radicals
->     * Trigonometry
->     * PC11 Full
-> * PC12
->     * Transformations
->     * Polynomials
->     * Trigonometry
->     <!--* Exponentials & Rationals-->
->     <!--* Logarithms-->
->     <!--* Function Operations-->
----
-
 ## **Notes List:**
 * ### Social Studies 10
     - Unit I: Government, Lessons 1-6
@@ -53,11 +30,11 @@ A series of notes & presentations, provided by Hyperion University
     - Trigonometry
         - Unit III: Trigonometric Functions & Unit Circle, Lessons 1-8
         - Unit IV: Graphing Trigonometric Functions, Lessons 1-4
-        - Unit V: Tigonometric Identities, Lessons 1-4
+        - Unit V: Trigonometric Identities, Lessons 1-4
     - Non-Trigonometric Transcendentals
-        - Unit VI: Exponentials & Rationals, Lessons 1-4 ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
-        - Unit VII: Logarithms Unit, Lessons 1-6 ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
-    - Unit VIII: Function Operations, Lessons 1 & 2 ![Static Badge](https://img.shields.io/badge/HTML-Late_Jun-darkred?logo=adguard&logoColor=brightgreen)
+        - Unit VI: Exponentials & Rationals, Lessons 1-4
+        - Unit VII: Logarithms Unit, Lessons 1-6
+    - Unit VIII: Function Operations, Lessons 1 & 2
 * ### Calculus 12 (coming soon)
     * Section I: Preparation
         - Unit I: Functions, Models, Equations and Inequalities
@@ -129,7 +106,4 @@ A series of notes & presentations, provided by Hyperion University
 ## **Status Badges**
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/jekyll-gh-pages.yml)
 [![Run Linters](https://github.com/HyperionU/Nota-Set/actions/workflows/linters.yml/badge.svg)](https://github.com/HyperionU/Nota-Set/actions/workflows/linters.yml) 
-![Webification](https://img.shields.io/badge/Webified-True-limegreen)
 ![Release](https://img.shields.io/github/v/release/HyperionU/Nota-Set?color=darkred) 
-![NKMNT Addition](https://img.shields.io/badge/NKMNT-Done-limegreen)
-![NoMD](https://img.shields.io/badge/NoMD-Stage_8-green?logo=adguard&logoColor=brightgreen)
