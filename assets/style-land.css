@@ -1,25 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Rubik&display=swap');
 
 :root {
+  --text: white;
   /* "Mint": new text color for NKNMT neo */
-  --text: oklch(72.97% 0.144 170.2);
+  --mint: oklch(72.97% 0.144 170.2);
   /* "Oxford Blue": new bg color for NKNMT neo */
   --background: oklch(12.96% 0.082 272.77);
   /* "Space Cadet": new primary color for NKMNT neo */
   --primary: oklch(24.66% 0.064 269.76);
   /* "Cardinal": new secondary color for NKNMT neo */
-  --secondary: oklch(54.62% 0.181 17.4);
+  --cardinal: oklch(54.62% 0.181 17.4);
   /* "Naples Yellow": new accent color for NKNMT neo */
-  --accent: oklch(90.61% 0.139 98.34);
+  --napoli: oklch(90.61% 0.139 98.34);
 }
 
 body {
   background-color: var(--background);
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  height: 100dvh;
   margin: 0;
-  overflow: hidden;
 }
 
 * {
@@ -27,18 +27,14 @@ body {
 }
 
 h1, h2, h3, a, p, span {
-  font-family: "Rubik", sans-serif;
+  font-family: sans-serif;
   font-weight: 400;
-  color: var(--text);
+  --color: var(--_font, --text);
+  color: var(--color);
 }
 
 a {
   text-decoration: none;
-}
-
-a:hover {
-  color: var(--accent);
-  transition: color 0.2s ease-in-out;
 }
 
 /*Navbar Specific Styling*/
@@ -46,10 +42,11 @@ nav {
   display: flex;
   width: 100%;
   border-bottom: 1px solid var(--primary);
+  --_font: var(--text);
 }
 
 item {
-  padding: 3rem 2rem;
+  padding: 2rem;
   display: flex;
   gap: 1rem;
   border-left: 1px solid var(--primary);
@@ -59,9 +56,6 @@ item {
 
 #logo {
   justify-content: flex-start;
-}
-
-#logo > a > i {
   font-size: 2.5rem;
 }
 
@@ -73,27 +67,54 @@ item {
   flex-grow: 1;
 }
 
-#links {
-  gap: 6rem;
-}
-
-#social {
+#links, #social {
   gap: 3rem;
 }
 
-.fa-twitter:hover {
-  color: #1da1f2;
-  transition: color 0.2s ease-in-out;
+main {
+  --_padding-inline: 2rem;
+  --_content-max: 70ch;
+  --_breakout-max: 85ch;
+  --breakout-width: calc((var(--_breakout-max) - var(--_content-max)) / 2);
+  
+  display: grid;
+  grid-template-columns: [full-width-start] minmax(var(--_padding-inline), 1fr) [breakout-start] minmax(0, var(--breakout-width)) [content-start] min(100% - (var(--_padding-inline) * 2), var(--_content-max)) [content-end] minmax(0, var(--breakout-width)) [breakout-end] minmax(var(--_padding-inline), 1fr) [full-width-end];
+  align-items: center;
+  --_font: var(--text);
 }
 
-main {
-  flex-grow: 1;
-  position: relative;
-  display: grid;
-  grid-template-rows: repeat(auto-fit, 1fr);
-  align-items: center;
+main > :not(.breakout, .full-width),
+.full-width > * {
+  grid-column: content;
 }
 
 h1, h2{
   text-align: center;
+}
+
+section {
+  --_background: var(--bg, black); 
+  background-color: var(--_background);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' width='80' height='80'%3E%3Cg fill='%23030037' fill-opacity='0.4'%3E%3Cpath d='M0 0h80v80H0V0zm20 20v40h40V20H20zm20 35a15 15 0 1 1 0-30 15 15 0 0 1 0 30z' opacity='.5'%3E%3C/path%3E%3Cpath d='M15 15h50l-5 5H20v40l-5 5V15zm0 50h50V15L80 0v80H0l15-15zm32.07-32.07l3.54-3.54A15 15 0 0 1 29.4 50.6l3.53-3.53a10 10 0 1 0 14.14-14.14zM32.93 47.07a10 10 0 1 1 14.14-14.14L32.93 47.07z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+}
+
+.breakout {
+  grid-column: breakout;
+}
+
+.full-width {
+  grid-column: full-width;
+}
+
+.mint {
+  --bg: var(--mint);
+}
+
+.cardinal{
+  --bg: var(--cardinal);
+}
+
+.napoli {
+  --bg: var(--napoli);
+  --_font: var(--primary);
 }
