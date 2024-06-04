@@ -3,6 +3,7 @@
 
 body {
   overflow: hidden;
+  --_font-color: var(--text);
 }
 
 main {
