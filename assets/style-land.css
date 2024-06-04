@@ -1,75 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Rubik&display=swap');
-
-:root {
-  --text: white;
-  /* "Mint": new text color for NKNMT neo */
-  --mint: oklch(72.97% 0.144 170.2);
-  /* "Oxford Blue": new bg color for NKNMT neo */
-  --background: oklch(12.96% 0.082 272.77);
-  /* "Space Cadet": new primary color for NKMNT neo */
-  --primary: oklch(24.66% 0.064 269.76);
-  /* "Cardinal": new secondary color for NKNMT neo */
-  --cardinal: oklch(54.62% 0.181 17.4);
-  /* "Naples Yellow": new accent color for NKNMT neo */
-  --napoli: oklch(90.61% 0.139 98.34);
-}
-
-body {
-  background-color: var(--background);
-  display: flex;
-  flex-direction: column;
-  height: 100dvh;
-  margin: 0;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-h1, h2, h3, a, p, span {
-  font-family: sans-serif;
-  font-weight: 400;
-  --color: var(--_font, --text);
-  color: var(--color);
-}
-
-a {
-  text-decoration: none;
-}
-
-/*Navbar Specific Styling*/
-nav {
-  display: flex;
-  width: 100%;
-  border-bottom: 1px solid var(--primary);
-  --_font: var(--text);
-}
-
-item {
-  padding: 2rem;
-  display: flex;
-  gap: 1rem;
-  border-left: 1px solid var(--primary);
-  align-items: center;
-  justify-content: center;
-}
-
-#logo {
-  justify-content: flex-start;
-  font-size: 2.5rem;
-}
-
-#logo, #links {
-  flex-basis: calc(100% / 3);
-}
-
-#social, #contact {
-  flex-grow: 1;
-}
-
-#links, #social {
-  gap: 3rem;
-}
+@import url(style.css);
 
 main {
   --_padding-inline: 2rem;
@@ -80,7 +9,7 @@ main {
   display: grid;
   grid-template-columns: [full-width-start] minmax(var(--_padding-inline), 1fr) [breakout-start] minmax(0, var(--breakout-width)) [content-start] min(100% - (var(--_padding-inline) * 2), var(--_content-max)) [content-end] minmax(0, var(--breakout-width)) [breakout-end] minmax(var(--_padding-inline), 1fr) [full-width-end];
   align-items: center;
-  --_font: var(--text);
+  --_font-color: var(--text);
 }
 
 main > :not(.breakout, .full-width),
@@ -116,5 +45,5 @@ section {
 
 .napoli {
   --bg: var(--napoli);
-  --_font: var(--primary);
+  --_font-color: var(--primary);
 }
