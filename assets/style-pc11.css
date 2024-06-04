@@ -1,6 +1,10 @@
 @import url(style.css);
 /* main (lander) styles */
 
+body {
+  overflow: hidden;
+}
+
 main {
   flex-grow: 1;
   position: relative;

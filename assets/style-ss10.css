@@ -1,5 +1,9 @@
 @import url(style.css);
 
+body {
+  overflow: hidden;
+}
+
 /* main (lander) styles */
 
 main {
