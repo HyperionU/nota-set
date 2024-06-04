@@ -45,5 +45,5 @@ section {
 
 .napoli {
   --bg: var(--napoli);
-  --_font-color: var(--primary);
+  --_font-color: black;
 }
