@@ -1,10 +1,12 @@
 # ***Nota-Set***
 A series of notes & presentations, provided by Hyperion University
 
-## New for v1.5.1
+## New for v2.0.0
 
 ### Added
-* Logarithms & Function Operations Notes
+* Pre-Calculus 12
+### NoMD Project
+* The entirety of the NoMD project has been completed! As such, there are no more issues for Second Edition.
 
 ## **Notes List:**
 * ### Social Studies 10
