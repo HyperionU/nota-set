@@ -36,14 +36,14 @@ section {
 }
 
 .mint {
-  --bg: oklch(var(--mint) / .5);
+  --bg: var(--mint);
 }
 
 .cardinal{
-  --bg: oklch(var(--cardinal) / .5);
+  --bg: var(--cardinal);
 }
 
 .napoli {
-  --bg: oklch(var(--napoli) / .5);
+  --bg: var(--napoli);
   --_font-color: black;
 }
