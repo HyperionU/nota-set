@@ -13,7 +13,6 @@ main, .full-width {
   display: grid;
   grid-template-columns: [full-width-start] minmax(var(--_padding-inline), 1fr) [breakout-start] minmax(0, var(--breakout-width)) [content-start] min(100% - (var(--_padding-inline) * 2), var(--_content-max)) [content-end] minmax(0, var(--breakout-width)) [breakout-end] minmax(var(--_padding-inline), 1fr) [full-width-end];
   align-items: center;
-  --_font-color: var(--text);
 }
 
 main > :not(.breakout, .full-width),
