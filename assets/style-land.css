@@ -1,5 +1,9 @@
 @import url(style.css);
 
+body{
+  --_font-color: var(--text);
+}
+
 main, .full-width {
   --_padding-inline: 2rem;
   --_content-max: 70ch;
