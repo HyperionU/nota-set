@@ -51,7 +51,7 @@ A maintainer is a contributor to the project's success and a citizen helping
 the project succeed.
 
 The collective team of all Maintainers is known as the Maintainer Council, 
-which in partnership with **Ofsom (Hyperion University Office of Software Maintainers)**,
+which in partnership with **Ofsom (Hyperion University Administrative Office of Software Maintainers)**,
 is the governing body for the project.
 
 ### Becoming a Maintainer
@@ -68,12 +68,11 @@ To become a Maintainer you need to demonstrate the following:
 5. Understanding of the project's code base and coding and documentation style.
 6. Review and Approval of Maintainer's Proposal of Addition.
 
-A new Maintainer must be proposed by an existing maintainer by sending a proposal on the Discussion Tab. A simple majority vote of existing Maintainers
+A new Maintainer must be proposed by an existing maintainer or reviewer by sending a proposal on the Discussion Tab. A simple majority vote of existing Maintainers
 approves the application.  Maintainers nominations will be evaluated without prejudice
 to employer or demographics.
 
-Maintainers who are selected will be granted the necessary GitHub rights,
-and invited to the Maintainer Slack channel.
+Maintainers who are selected will be granted the necessary GitHub rights.
 
 ### Removing a Maintainer
 
@@ -86,7 +85,7 @@ Inactivity is defined as a period of very low or no activity in the project
 for a year or more, with no definite schedule to return to full Maintainer 
 activity.
 
-A Maintainer may be removed at any time by a 2/3 vote of the remaining maintainers.
+A Maintainer may be removed at any time by a simple majority vote of the remaining maintainers or a 2/3 majority of a representative portion of contributors.
 
 Depending on the reason for removal, a Maintainer may be converted to Emeritus
 status. 
@@ -105,9 +104,8 @@ accused of a CoC violation.
 ## Resources
 
 Any Maintainer may suggest a request for
-resources, either in the
-main Slack Channel, or during a
-meeting.  A simple majority of Maintainers approves the request.  The Maintainers
+resources during a
+meeting. A simple majority of Maintainers approves the request. The Maintainers
 may also choose to delegate working with the Council to non-Maintainer community
 members, who will then be added to the [Maintainer List](MAINTAINERS.md)
 for that purpose.
@@ -116,9 +114,8 @@ for that purpose.
 
 [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 violations by community members will be discussed and resolved
-on the private Maintainer Slack Channel.  If a Maintainer is directly involved
-in the report, the Maintainers will instead designate two Maintainers to work
-with the Office of Software Maintainers Adjudication Division (Ofsom) in resolving it.
+privately before a report bulletin is published.  If a Maintainer is directly involved in the report, the Maintainers will instead designate two Maintainers to work
+with the Administrative Office of Software Maintainers Adjudication Division (Ofsom) in resolving it.
 
 ## Security Response Team
 
@@ -135,8 +132,8 @@ holes and breaches according to the [security policy](.github/SECURITY.md).
 
 While most business in Nota-Set Project is conducted by "[lazy consensus](https://community.apache.org/committers/lazyConsensus.html)", 
 periodically the Maintainers may need to vote on specific actions or changes.
-A vote can be taken on the Nota-Set Communication Channel or
-the private Maintainer Channel for security or conduct matters.  
+A vote can be taken on the discussions tab or
+privately for security or conduct matters.  
 Any Maintainer may demand a vote be taken.
 
 Most votes require a simple majority of all Maintainers to succeed, except where
@@ -146,4 +143,4 @@ existing maintainers.
 ## Modifying this Charter
 
 Changes to this Governance and its supporting documents may be approved by 
-a **2/3 vote of the Maintainers**.
+a **simple majority vote of the Maintainers or 2/3 vote of a representative sample of contributors**.
