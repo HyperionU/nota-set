@@ -1,6 +1,6 @@
 # How To Contribute
 Hello! From all of us at The University of Hyperion, we're so glad you are taking the time to join us.
-If you haven't already, consider sending an introduction on the discussion tab, or joining the [Slack Channel](https://join.slack.com/t/newworkspace-pcc1266/shared_invite/zt-2e8wglpe8-HC1ylv~YIeyOxtpeol1Q7g)<sup>1</sup> at the previous link.
+If you haven't already, consider sending an introduction on the discussion tab.
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
@@ -49,6 +49,6 @@ text
 ```
 - This is open source software. Consider the people who will read your code, and make it look nice for them. It's sort of like driving a car: Perhaps you love doing donuts when you're alone, but with passengers the goal is to make the ride as smooth as possible.
 
-Finally, if you are confused or unsure about something, ask. Ask either on the Discussions tab or the Slack Channel<sup>1</sup>.\
+Finally, if you are confused or unsure about something, ask.\
 From all of us here, thanks for making Nota-Set better and more accessible!\
 -G. D. (Maintainer of Nota-Set, Founder / President of Hyperion University)
